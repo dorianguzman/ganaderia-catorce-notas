@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-02-01",
-    "end": "2026-02-16"
+    "end": "2026-02-17"
   },
-  "generated": "2026-02-16 07:57:47",
+  "generated": "2026-02-17 07:53:54",
   "metrics": {
-    "total_revenue": 33912.1,
-    "total_notas": 13,
-    "avg_ticket": 2608.623076923077,
-    "total_items": 30
+    "total_revenue": 46092.1,
+    "total_notas": 17,
+    "avg_ticket": 2711.2999999999997,
+    "total_items": 40
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Guaches",
-      "revenue": 10660.0
+      "revenue": 14760.0
     },
     {
       "rank": 2,
       "name": "Alejandro",
-      "revenue": 6348.1
+      "revenue": 12548.1
     },
     {
       "rank": 3,
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "Los papis",
-      "revenue": 1820.0
+      "name": "Tacos memo",
+      "revenue": 2510.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 239
+      "quantity": 339
     },
     {
       "rank": 2,
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
-      "name": "Chorizo español",
-      "quantity": 16
+      "name": "Bistec de cerdo entero",
+      "quantity": 38
     },
     {
       "rank": 4,
-      "name": "Bistec de cerdo entero",
-      "quantity": 15
+      "name": "Aguja marinada",
+      "quantity": 23
     },
     {
       "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 13
+      "name": "Chorizo español",
+      "quantity": 18
     }
   ],
   "records": [
@@ -234,6 +234,58 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1580
+    },
+    {
+      "Timestamp": "2/16/2026 15:00:10",
+      "Remision": "20260216-0759",
+      "Fecha": "2026-02-16",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":270},{\"cantidad\":4,\"descripcion\":\"Aguja natural\",\"pu\":120,\"importe\":480},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":500}]",
+      "Subtotal": 1250,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1250
+    },
+    {
+      "Timestamp": "2/16/2026 15:02:24",
+      "Remision": "20260216-0801",
+      "Fecha": "2026-02-16",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "2/17/2026 4:59:58",
+      "Remision": "20260216-2159",
+      "Fecha": "2026-02-16",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":20,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":1600},{\"cantidad\":2,\"descripcion\":\"Pulpa/ trozo de cerdo\",\"pu\":80,\"importe\":160},{\"cantidad\":10,\"descripcion\":\"Aguja marinada\",\"pu\":120,\"importe\":1200},{\"cantidad\":40,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":3240}]",
+      "Subtotal": 6200,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 6200
+    },
+    {
+      "Timestamp": "2/17/2026 5:01:08",
+      "Remision": "20260216-2200",
+      "Fecha": "2026-02-16",
+      "Cliente": "Restaurante altozano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":450},{\"cantidad\":2,\"descripcion\":\"Chorizo español\",\"pu\":90,\"importe\":180}]",
+      "Subtotal": 630,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 630
     }
   ]
 }
