@@ -518,27 +518,65 @@ async function createPDFDocument(data) {
     const { jsPDF, GState } = window.jspdf;
     const doc = new jsPDF();
 
-    // Add watermark logo
-    const watermarkImg = new Image();
-    watermarkImg.src = 'assets/logo_watermark.png';
-
-    // Wait for image to load
+    // Build full logo watermark on canvas
+    const cowPigImg = new Image();
+    cowPigImg.src = 'assets/cow-pig.png';
     await new Promise((resolve, reject) => {
-        watermarkImg.onload = resolve;
-        watermarkImg.onerror = reject;
+        cowPigImg.onload = resolve;
+        cowPigImg.onerror = reject;
     });
+
+    // Wait for fonts to be ready
+    await document.fonts.ready;
+
+    const canvas = document.createElement('canvas');
+    const cw = 400;
+    const ch = 330;
+    canvas.width = cw;
+    canvas.height = ch;
+    const ctx = canvas.getContext('2d');
+
+    const midX = 200;
+
+    // "Ganaderia" — Josefin Sans italic
+    ctx.font = 'italic 300 15px "Josefin Sans"';
+    ctx.fillStyle = '#0A0A0A';
+    ctx.textAlign = 'center';
+    ctx.letterSpacing = '5px';
+    ctx.fillText('GANADERIA', midX, 25);
+
+    // Cow-pig icon
+    const iconW = 175;
+    const iconH = (cowPigImg.height / cowPigImg.width) * iconW;
+    ctx.drawImage(cowPigImg, midX - iconW / 2, 35, iconW, iconH);
+
+    // "CATORCE" — Orbitron bold
+    const catorceY = 35 + iconH + 28;
+    ctx.font = '800 38px "Orbitron"';
+    ctx.fillStyle = '#D4231A';
+    ctx.letterSpacing = '5px';
+    ctx.fillText('CATORCE', midX, catorceY);
+
+    // "EST. 2024" — Inter
+    ctx.font = '400 9px "Inter"';
+    ctx.fillStyle = 'rgba(10, 10, 10, 0.7)';
+    ctx.letterSpacing = '3px';
+    ctx.fillText('EST. 2024', midX, catorceY + 18);
+
+    const watermarkDataUrl = canvas.toDataURL('image/png');
 
     // Add watermark in center of page
     const pageWidth = doc.internal.pageSize.getWidth();
     const pageHeight = doc.internal.pageSize.getHeight();
-    
-    // Reduced size for better aesthetics
-    const imgWidth = 90; 
-    const imgHeight = (watermarkImg.height / watermarkImg.width) * imgWidth;
+    const imgWidth = 140;
+    const imgHeight = (ch / cw) * imgWidth;
     const x = (pageWidth - imgWidth) / 2;
     const y = (pageHeight - imgHeight) / 2;
 
-    doc.addImage(watermarkImg, 'PNG', x, y, imgWidth, imgHeight);
+    doc.saveGraphicsState();
+    doc.setGState(new GState({ opacity: 0.06 }));
+    doc.addImage(watermarkDataUrl, 'PNG', x, y, imgWidth, imgHeight);
+    doc.restoreGraphicsState();
 
     let currentY = 20;
 

@@ -81,9 +81,57 @@ header.header-centered .header-left {
     gap: 8px;
 }
 
+/* --- Logo Component --- */
 .logo {
-    max-width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    text-align: center;
+    flex-shrink: 0;
+    width: 100px;
+}
+
+.logo__ganaderia {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    font-size: 0.55rem;
+    margin-bottom: 0.2rem;
+    color: #2d2d2d;
+}
+
+.logo__icon {
+    display: block;
+    width: 80px;
+    margin: 0.1rem 0;
+}
+
+.logo__icon img {
+    display: block;
+    width: 100%;
     height: auto;
+}
+
+.logo__catorce {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-size: 1.15rem;
+    margin-top: 0.1rem;
+    color: #d4231a;
+}
+
+.logo__est {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    font-size: 0.4rem;
+    margin-top: 0.2rem;
+    color: rgba(10, 10, 10, 0.4);
 }
 
 /* Landing page specific styles */
@@ -1775,7 +1823,19 @@ input[readonly] {
     }
 
     .logo {
-        max-width: 100px;
+        width: 80px;
+    }
+
+    .logo__icon {
+        width: 60px;
+    }
+
+    .logo__catorce {
+        font-size: 0.9rem;
+    }
+
+    .logo__ganaderia {
+        font-size: 0.45rem;
     }
 
     .btn-new {
