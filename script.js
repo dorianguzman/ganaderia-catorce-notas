@@ -755,7 +755,7 @@ async function createPDFDocument(data) {
     // Contact info
     doc.setFontSize(7.5);
     doc.setTextColor(130, 130, 130);
-    doc.text('Tel: +52 446 106 0320  |  Email: ganaderiacatorce@gmail.com', 105, footerY + 15, { align: 'center' });
+    doc.text('Tel: +52 446 106 0320  |  Email: ventas@ganaderiacatorce.com', 105, footerY + 15, { align: 'center' });
 
     // Thank you message
     doc.setFontSize(7);
