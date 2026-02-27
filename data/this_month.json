@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-02-01",
-    "end": "2026-02-26"
+    "end": "2026-02-27"
   },
-  "generated": "2026-02-26 07:54:39",
+  "generated": "2026-02-27 07:50:05",
   "metrics": {
-    "total_revenue": 71219.1,
-    "total_notas": 26,
-    "avg_ticket": 2739.196153846154,
-    "total_items": 61
+    "total_revenue": 79843.1,
+    "total_notas": 28,
+    "avg_ticket": 2851.539285714286,
+    "total_items": 69
   },
   "top_customers": [
     {
@@ -24,30 +24,30 @@
     },
     {
       "rank": 3,
+      "name": "Los papis",
+      "revenue": 10444.0
+    },
+    {
+      "rank": 4,
       "name": "Grammer",
       "revenue": 10050.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Tacos el rey",
       "revenue": 9549.0
-    },
-    {
-      "rank": 5,
-      "name": "Tacos memo",
-      "revenue": 4410.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 520
+      "quantity": 570
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 58
+      "quantity": 75
     },
     {
       "rank": 3,
@@ -403,6 +403,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1900
+    },
+    {
+      "Timestamp": "2/26/2026 22:30:45",
+      "Remision": "20260226-1529",
+      "Fecha": "2026-02-26",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":25,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":2250},{\"cantidad\":5,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":450},{\"cantidad\":7,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":92,\"importe\":644},{\"cantidad\":10,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":920}]",
+      "Subtotal": 4264,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4264
+    },
+    {
+      "Timestamp": "2/26/2026 22:31:57",
+      "Remision": "20260226-1530",
+      "Fecha": "2026-02-26",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":25,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":2250},{\"cantidad\":3,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":270},{\"cantidad\":10,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":920},{\"cantidad\":10,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":92,\"importe\":920}]",
+      "Subtotal": 4360,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4360
     }
   ]
 }
