@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-02-01",
-    "end": "2026-02-27"
+    "end": "2026-02-28"
   },
-  "generated": "2026-02-27 07:50:05",
+  "generated": "2026-02-28 07:33:15",
   "metrics": {
-    "total_revenue": 79843.1,
-    "total_notas": 28,
-    "avg_ticket": 2851.539285714286,
-    "total_items": 69
+    "total_revenue": 91824.95000000001,
+    "total_notas": 31,
+    "avg_ticket": 2962.095161290323,
+    "total_items": 73
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Guaches",
-      "revenue": 18810.0
+      "revenue": 22910.0
     },
     {
       "rank": 2,
       "name": "Alejandro",
-      "revenue": 16598.1
+      "revenue": 22479.949999999997
     },
     {
       "rank": 3,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 570
+      "quantity": 713.245
     },
     {
       "rank": 2,
@@ -429,6 +429,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4360
+    },
+    {
+      "Timestamp": "2/27/2026 17:17:15",
+      "Remision": "20260227-1015",
+      "Fecha": "2026-02-27",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":72.245,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":5851.845},{\"cantidad\":15,\"descripcion\":\"Bolsas de empaque al vacío \",\"pu\":2,\"importe\":30}]",
+      "Subtotal": 5881.85,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 5881.85
+    },
+    {
+      "Timestamp": "2/27/2026 17:18:38",
+      "Remision": "20260227-1018",
+      "Fecha": "2026-02-27",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "2/28/2026 4:31:37",
+      "Remision": "20260227-2130",
+      "Fecha": "2026-02-27",
+      "Cliente": "Oscar vazquez ",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":21,\"descripcion\":\"Arrachera marinada\",\"pu\":120,\"importe\":2520}]",
+      "Subtotal": 2520,
+      "IVA": 0,
+      "Descuento": 520,
+      "Total": 2000
     }
   ]
 }
