@@ -2,27 +2,47 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-03"
+    "end": "2026-03-04"
   },
-  "generated": "2026-03-03 07:46:55",
+  "generated": "2026-03-04 07:40:42",
   "metrics": {
-    "total_revenue": 1860.0,
-    "total_notas": 1,
-    "avg_ticket": 1860.0,
-    "total_items": 3
+    "total_revenue": 15143.880000000001,
+    "total_notas": 7,
+    "avg_ticket": 2163.4114285714286,
+    "total_items": 10
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Guaches",
+      "revenue": 7849.0
+    },
+    {
+      "rank": 2,
+      "name": "Parrilla del lobo",
+      "revenue": 3400.0
+    },
+    {
+      "rank": 3,
       "name": "Tacos memo",
       "revenue": 1860.0
+    },
+    {
+      "rank": 4,
+      "name": "Los papis",
+      "revenue": 1360.0
+    },
+    {
+      "rank": 5,
+      "name": "Ricardo Luna",
+      "revenue": 674.88
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 9
+      "quantity": 155
     },
     {
       "rank": 2,
@@ -31,8 +51,18 @@
     },
     {
       "rank": 3,
+      "name": "Bistec picado",
+      "quantity": 5
+    },
+    {
+      "rank": 4,
       "name": "Bistec de cerdo entero",
       "quantity": 4
+    },
+    {
+      "rank": 5,
+      "name": "Venta de ganado",
+      "quantity": 2
     }
   ],
   "records": [
@@ -48,6 +78,84 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1860
+    },
+    {
+      "Timestamp": "3/3/2026 14:26:24",
+      "Remision": "20260303-0724",
+      "Fecha": "2026-03-03",
+      "Cliente": "Ricardo Luna",
+      "ClienteEmail": "ricardoluna324@gmail.com",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":2,\"descripcion\":\"Venta de ganado\",\"pu\":344,\"importe\":688}]",
+      "Subtotal": 688,
+      "IVA": 6.88,
+      "Descuento": 20,
+      "Total": 674.88
+    },
+    {
+      "Timestamp": "3/4/2026 4:25:12",
+      "Remision": "20260303-2124",
+      "Fecha": "2026-03-01",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":23,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":1863}]",
+      "Subtotal": 1863,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1863
+    },
+    {
+      "Timestamp": "3/4/2026 4:26:40",
+      "Remision": "20260303-2125",
+      "Fecha": "2026-03-03",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "3/4/2026 4:27:25",
+      "Remision": "20260303-2127",
+      "Fecha": "2026-03-01",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":23,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":1886}]",
+      "Subtotal": 1886,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1886
+    },
+    {
+      "Timestamp": "3/4/2026 4:28:03",
+      "Remision": "20260303-2127",
+      "Fecha": "2026-03-03",
+      "Cliente": "Parrilla del lobo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":40,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":3400}]",
+      "Subtotal": 3400,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3400
+    },
+    {
+      "Timestamp": "3/4/2026 4:29:27",
+      "Remision": "20260303-2128",
+      "Fecha": "2026-03-03",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900},{\"cantidad\":5,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":460}]",
+      "Subtotal": 1360,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1360
     }
   ]
 }
