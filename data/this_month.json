@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-07"
+    "end": "2026-03-08"
   },
-  "generated": "2026-03-07 07:34:32",
+  "generated": "2026-03-08 07:35:47",
   "metrics": {
-    "total_revenue": 28443.88,
-    "total_notas": 10,
-    "avg_ticket": 2844.388,
-    "total_items": 13
+    "total_revenue": 28713.88,
+    "total_notas": 11,
+    "avg_ticket": 2610.3527272727274,
+    "total_items": 14
   },
   "top_customers": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Venta de ganado",
-      "quantity": 2
+      "name": "Trozo al pastor",
+      "quantity": 3
     }
   ],
   "records": [
@@ -195,6 +195,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4050
+    },
+    {
+      "Timestamp": "3/7/2026 22:37:53",
+      "Remision": "20260307-1537",
+      "Fecha": "2026-03-07",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":270}]",
+      "Subtotal": 270,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 270
     }
   ]
 }
