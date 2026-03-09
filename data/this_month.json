@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-08"
+    "end": "2026-03-09"
   },
-  "generated": "2026-03-08 07:35:47",
+  "generated": "2026-03-09 07:53:16",
   "metrics": {
-    "total_revenue": 28713.88,
-    "total_notas": 11,
-    "avg_ticket": 2610.3527272727274,
-    "total_items": 14
+    "total_revenue": 32763.88,
+    "total_notas": 12,
+    "avg_ticket": 2730.3233333333333,
+    "total_items": 15
   },
   "top_customers": [
     {
       "rank": 1,
-      "name": "Alejandro",
-      "revenue": 8100.0
+      "name": "Guaches",
+      "revenue": 11899.0
     },
     {
       "rank": 2,
-      "name": "Guaches",
-      "revenue": 7849.0
+      "name": "Alejandro",
+      "revenue": 8100.0
     },
     {
       "rank": 3,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 305
+      "quantity": 355
     },
     {
       "rank": 2,
@@ -208,6 +208,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 270
+    },
+    {
+      "Timestamp": "3/8/2026 17:59:46",
+      "Remision": "20260308-1059",
+      "Fecha": "2026-03-08",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4050}]",
+      "Subtotal": 4050,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4050
     }
   ]
 }
