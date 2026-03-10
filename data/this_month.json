@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-09"
+    "end": "2026-03-10"
   },
-  "generated": "2026-03-09 07:53:16",
+  "generated": "2026-03-10 07:45:00",
   "metrics": {
-    "total_revenue": 32763.88,
-    "total_notas": 12,
-    "avg_ticket": 2730.3233333333333,
-    "total_items": 15
+    "total_revenue": 37953.880000000005,
+    "total_notas": 14,
+    "avg_ticket": 2710.991428571429,
+    "total_items": 18
   },
   "top_customers": [
     {
       "rank": 1,
-      "name": "Guaches",
-      "revenue": 11899.0
+      "name": "Alejandro",
+      "revenue": 12150.0
     },
     {
       "rank": 2,
-      "name": "Alejandro",
-      "revenue": 8100.0
+      "name": "Guaches",
+      "revenue": 11899.0
     },
     {
       "rank": 3,
@@ -35,29 +35,29 @@
     {
       "rank": 5,
       "name": "Tacos memo",
-      "revenue": 1860.0
+      "revenue": 3000.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 355
+      "quantity": 411
     },
     {
       "rank": 2,
+      "name": "Bistec de cerdo entero",
+      "quantity": 10
+    },
+    {
+      "rank": 3,
       "name": "Aguja natural",
       "quantity": 5
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Bistec picado",
       "quantity": 5
-    },
-    {
-      "rank": 4,
-      "name": "Bistec de cerdo entero",
-      "quantity": 4
     },
     {
       "rank": 5,
@@ -214,6 +214,32 @@
       "Remision": "20260308-1059",
       "Fecha": "2026-03-08",
       "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4050}]",
+      "Subtotal": 4050,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4050
+    },
+    {
+      "Timestamp": "3/9/2026 21:53:27",
+      "Remision": "20260309-1452",
+      "Fecha": "2026-03-09",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":600},{\"cantidad\":6,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":540}]",
+      "Subtotal": 1140,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1140
+    },
+    {
+      "Timestamp": "3/10/2026 4:19:44",
+      "Remision": "20260309-2119",
+      "Fecha": "2026-03-09",
+      "Cliente": "Alejandro",
       "ClienteEmail": "",
       "Ciudad": "Querétaro",
       "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4050}]",
