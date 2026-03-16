@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-15"
+    "end": "2026-03-16"
   },
-  "generated": "2026-03-15 07:49:12",
+  "generated": "2026-03-16 08:10:41",
   "metrics": {
-    "total_revenue": 51993.880000000005,
-    "total_notas": 18,
-    "avg_ticket": 2888.548888888889,
-    "total_items": 27
+    "total_revenue": 56300.280000000006,
+    "total_notas": 19,
+    "avg_ticket": 2963.172631578948,
+    "total_items": 30
   },
   "top_customers": [
     {
@@ -29,20 +29,20 @@
     },
     {
       "rank": 4,
-      "name": "Parrilla del lobo",
-      "revenue": 3400.0
+      "name": "Los papis",
+      "revenue": 5936.4
     },
     {
       "rank": 5,
-      "name": "Tacos memo",
-      "revenue": 3000.0
+      "name": "Parrilla del lobo",
+      "revenue": 3400.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 501
+      "quantity": 511
     },
     {
       "rank": 2,
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
-      "name": "Trozo al pastor",
-      "quantity": 13
+      "name": "Diezmillo con hueso",
+      "quantity": 16.69
     },
     {
       "rank": 4,
-      "name": "Chorizo argentino",
-      "quantity": 10
+      "name": "Bistec picado",
+      "quantity": 13
     },
     {
       "rank": 5,
-      "name": "Chorizo español",
-      "quantity": 10
+      "name": "Trozo al pastor",
+      "quantity": 13
     }
   ],
   "records": [
@@ -299,6 +299,19 @@
       "IVA": 0,
       "Descuento": 520,
       "Total": 5100
+    },
+    {
+      "Timestamp": "3/15/2026 16:56:48",
+      "Remision": "20260315-0954",
+      "Fecha": "2026-03-15",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900},{\"cantidad\":8,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":736},{\"cantidad\":16.69,\"descripcion\":\"Diezmillo con hueso\",\"pu\":160,\"importe\":2670.4}]",
+      "Subtotal": 4306.4,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4306.4
     }
   ]
 }
