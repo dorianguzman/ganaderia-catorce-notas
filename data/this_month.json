@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-16"
+    "end": "2026-03-17"
   },
-  "generated": "2026-03-16 08:10:41",
+  "generated": "2026-03-17 07:57:14",
   "metrics": {
-    "total_revenue": 56300.280000000006,
-    "total_notas": 19,
-    "avg_ticket": 2963.172631578948,
-    "total_items": 30
+    "total_revenue": 60115.280000000006,
+    "total_notas": 21,
+    "avg_ticket": 2862.632380952381,
+    "total_items": 40
   },
   "top_customers": [
     {
@@ -34,20 +34,20 @@
     },
     {
       "rank": 5,
-      "name": "Parrilla del lobo",
-      "revenue": 3400.0
+      "name": "Tacos memo",
+      "revenue": 5460.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 511
+      "quantity": 525
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 30
+      "quantity": 36
     },
     {
       "rank": 3,
@@ -56,12 +56,12 @@
     },
     {
       "rank": 4,
-      "name": "Bistec picado",
-      "quantity": 13
+      "name": "Trozo al pastor",
+      "quantity": 16
     },
     {
       "rank": 5,
-      "name": "Trozo al pastor",
+      "name": "Bistec picado",
       "quantity": 13
     }
   ],
@@ -312,6 +312,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4306.4
+    },
+    {
+      "Timestamp": "3/17/2026 3:16:30",
+      "Remision": "20260316-2012",
+      "Fecha": "2026-03-16",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":1,\"descripcion\":\"New York marinado\",\"pu\":220,\"importe\":220},{\"cantidad\":3,\"descripcion\":\"Trozo al pastor\",\"pu\":85,\"importe\":255},{\"cantidad\":5,\"descripcion\":\"Bistec adobado taquero\",\"pu\":85,\"importe\":425},{\"cantidad\":2,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":170},{\"cantidad\":1,\"descripcion\":\"Chorizo argentino\",\"pu\":95,\"importe\":95},{\"cantidad\":1,\"descripcion\":\"Chorizo verde\",\"pu\":95,\"importe\":95},{\"cantidad\":1,\"descripcion\":\"Chorizo habanero \",\"pu\":95,\"importe\":95}]",
+      "Subtotal": 1355,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1355
+    },
+    {
+      "Timestamp": "3/17/2026 4:50:14",
+      "Remision": "20260316-2149",
+      "Fecha": "2026-03-16",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1200},{\"cantidad\":6,\"descripcion\":\"Aguja natural\",\"pu\":120,\"importe\":720},{\"cantidad\":6,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":540}]",
+      "Subtotal": 2460,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2460
     }
   ]
 }
