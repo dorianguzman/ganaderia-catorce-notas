@@ -2,20 +2,20 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-18"
+    "end": "2026-03-19"
   },
-  "generated": "2026-03-18 07:56:51",
+  "generated": "2026-03-19 07:51:39",
   "metrics": {
-    "total_revenue": 60115.280000000006,
-    "total_notas": 21,
-    "avg_ticket": 2862.632380952381,
-    "total_items": 40
+    "total_revenue": 66977.28,
+    "total_notas": 24,
+    "avg_ticket": 2790.72,
+    "total_items": 44
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Alejandro",
-      "revenue": 16990.0
+      "revenue": 22660.0
     },
     {
       "rank": 2,
@@ -42,12 +42,12 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 525
+      "quantity": 599
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 36
+      "quantity": 46
     },
     {
       "rank": 3,
@@ -338,6 +338,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2460
+    },
+    {
+      "Timestamp": "3/18/2026 15:38:08",
+      "Remision": "20260318-0837",
+      "Fecha": "2026-03-18",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":70,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":5670}]",
+      "Subtotal": 5670,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 5670
+    },
+    {
+      "Timestamp": "3/18/2026 19:04:17",
+      "Remision": "20260318-1203",
+      "Fecha": "2026-03-18",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":480}]",
+      "Subtotal": 480,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 480
+    },
+    {
+      "Timestamp": "3/18/2026 19:05:36",
+      "Remision": "20260318-1204",
+      "Fecha": "2026-03-18",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":4,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":320},{\"cantidad\":4,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":392}]",
+      "Subtotal": 712,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 712
     }
   ]
 }
