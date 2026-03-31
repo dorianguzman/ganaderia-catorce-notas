@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-03-01",
-    "end": "2026-03-30"
+    "end": "2026-03-31"
   },
-  "generated": "2026-03-30 08:23:53",
+  "generated": "2026-03-31 08:11:35",
   "metrics": {
-    "total_revenue": 81737.28,
-    "total_notas": 29,
-    "avg_ticket": 2818.526896551724,
-    "total_items": 56
+    "total_revenue": 86957.28,
+    "total_notas": 31,
+    "avg_ticket": 2805.0735483870967,
+    "total_items": 60
   },
   "top_customers": [
     {
       "rank": 1,
-      "name": "Alejandro",
-      "revenue": 25090.0
+      "name": "Guaches",
+      "revenue": 28299.0
     },
     {
       "rank": 2,
-      "name": "Guaches",
-      "revenue": 24199.0
+      "name": "Alejandro",
+      "revenue": 25090.0
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
     {
       "rank": 4,
       "name": "Tacos memo",
-      "revenue": 8140.0
+      "revenue": 9260.0
     },
     {
       "rank": 5,
@@ -42,17 +42,17 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 745
+      "quantity": 799
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 54
+      "quantity": 58
     },
     {
       "rank": 3,
       "name": "Aguja natural",
-      "quantity": 19
+      "quantity": 22
     },
     {
       "rank": 4,
@@ -442,6 +442,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4100
+    },
+    {
+      "Timestamp": "3/30/2026 14:40:15",
+      "Remision": "20260330-0639",
+      "Fecha": "2026-03-30",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "3/31/2026 3:11:02",
+      "Remision": "20260330-1910",
+      "Fecha": "2026-03-30",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Aguja natural\",\"pu\":120,\"importe\":360},{\"cantidad\":4,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":360},{\"cantidad\":4,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":400}]",
+      "Subtotal": 1120,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1120
     }
   ]
 }
