@@ -2,16 +2,80 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-01"
+    "end": "2026-04-02"
   },
-  "generated": "2026-04-01 08:18:05",
+  "generated": "2026-04-02 08:10:23",
   "metrics": {
-    "total_revenue": 0,
-    "total_notas": 0,
-    "avg_ticket": 0,
-    "total_items": 0
+    "total_revenue": 15380.0,
+    "total_notas": 2,
+    "avg_ticket": 7690.0,
+    "total_items": 9
   },
-  "top_customers": [],
-  "top_products": [],
-  "records": []
+  "top_customers": [
+    {
+      "rank": 1,
+      "name": "Grammer",
+      "revenue": 8880.0
+    },
+    {
+      "rank": 2,
+      "name": "Jessica avila",
+      "revenue": 6500.0
+    }
+  ],
+  "top_products": [
+    {
+      "rank": 1,
+      "name": "Bistec de cerdo entero",
+      "quantity": 49
+    },
+    {
+      "rank": 2,
+      "name": "Chuleta ahumada ",
+      "quantity": 48
+    },
+    {
+      "rank": 3,
+      "name": "Arrachera marinada",
+      "quantity": 22
+    },
+    {
+      "rank": 4,
+      "name": "Trozo al pastor",
+      "quantity": 15
+    },
+    {
+      "rank": 5,
+      "name": "Aguja marinada",
+      "quantity": 10
+    }
+  ],
+  "records": [
+    {
+      "Timestamp": "4/1/2026 15:54:33",
+      "Remision": "20260401-0753",
+      "Fecha": "2026-04-01",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":49,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":3920},{\"cantidad\":48,\"descripcion\":\"Chuleta ahumada \",\"pu\":95,\"importe\":4560},{\"cantidad\":5,\"descripcion\":\"Pulpa/trozo\",\"pu\":80,\"importe\":400}]",
+      "Subtotal": 8880,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 8880
+    },
+    {
+      "Timestamp": "4/1/2026 19:23:13",
+      "Remision": "20260401-1120",
+      "Fecha": "2026-04-01",
+      "Cliente": "Jessica avila",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":22,\"descripcion\":\"Arrachera marinada\",\"pu\":120,\"importe\":2640},{\"cantidad\":5,\"descripcion\":\"Chorizo argentino\",\"pu\":110,\"importe\":550},{\"cantidad\":5,\"descripcion\":\"Chorizo español\",\"pu\":110,\"importe\":550},{\"cantidad\":5,\"descripcion\":\"Chistorra\",\"pu\":130,\"importe\":650},{\"cantidad\":10,\"descripcion\":\"Aguja marinada\",\"pu\":120,\"importe\":1200},{\"cantidad\":15,\"descripcion\":\"Trozo al pastor\",\"pu\":110,\"importe\":1650}]",
+      "Subtotal": 7240,
+      "IVA": 0,
+      "Descuento": 740,
+      "Total": 6500
+    }
+  ]
 }
