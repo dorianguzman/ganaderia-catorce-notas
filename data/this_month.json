@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-05"
+    "end": "2026-04-06"
   },
-  "generated": "2026-04-05 07:57:12",
+  "generated": "2026-04-06 08:24:09",
   "metrics": {
-    "total_revenue": 15380.0,
-    "total_notas": 2,
-    "avg_ticket": 7690.0,
-    "total_items": 9
+    "total_revenue": 19480.0,
+    "total_notas": 3,
+    "avg_ticket": 6493.333333333333,
+    "total_items": 10
   },
   "top_customers": [
     {
@@ -21,23 +21,28 @@
       "rank": 2,
       "name": "Jessica avila",
       "revenue": 6500.0
+    },
+    {
+      "rank": 3,
+      "name": "Guaches",
+      "revenue": 4100.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
+      "name": "Arrachera marinada",
+      "quantity": 72
+    },
+    {
+      "rank": 2,
       "name": "Bistec de cerdo entero",
       "quantity": 49
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Chuleta ahumada ",
       "quantity": 48
-    },
-    {
-      "rank": 3,
-      "name": "Arrachera marinada",
-      "quantity": 22
     },
     {
       "rank": 4,
@@ -76,6 +81,19 @@
       "IVA": 0,
       "Descuento": 740,
       "Total": 6500
+    },
+    {
+      "Timestamp": "4/5/2026 23:13:11",
+      "Remision": "20260405-1512",
+      "Fecha": "2026-04-05",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
     }
   ]
 }
