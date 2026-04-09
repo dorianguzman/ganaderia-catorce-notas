@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-08"
+    "end": "2026-04-09"
   },
-  "generated": "2026-04-08 08:14:58",
+  "generated": "2026-04-09 08:22:17",
   "metrics": {
-    "total_revenue": 19480.0,
-    "total_notas": 3,
-    "avg_ticket": 6493.333333333333,
-    "total_items": 10
+    "total_revenue": 22060.0,
+    "total_notas": 4,
+    "avg_ticket": 5515.0,
+    "total_items": 14
   },
   "top_customers": [
     {
@@ -26,13 +26,18 @@
       "rank": 3,
       "name": "Guaches",
       "revenue": 4100.0
+    },
+    {
+      "rank": 4,
+      "name": "Tocayo",
+      "revenue": 2580.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 72
+      "quantity": 91
     },
     {
       "rank": 2,
@@ -52,7 +57,7 @@
     {
       "rank": 5,
       "name": "Aguja marinada",
-      "quantity": 10
+      "quantity": 12
     }
   ],
   "records": [
@@ -94,6 +99,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4100
+    },
+    {
+      "Timestamp": "4/9/2026 0:00:20",
+      "Remision": "20260408-1558",
+      "Fecha": "2026-04-08",
+      "Cliente": "Tocayo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":19,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":1615},{\"cantidad\":4,\"descripcion\":\"Diezmillo \",\"pu\":160,\"importe\":640},{\"cantidad\":1,\"descripcion\":\"Chorizo argentino\",\"pu\":85,\"importe\":85},{\"cantidad\":2,\"descripcion\":\"Aguja marinada\",\"pu\":120,\"importe\":240}]",
+      "Subtotal": 2580,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2580
     }
   ]
 }
