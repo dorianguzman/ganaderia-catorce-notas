@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-09"
+    "end": "2026-04-10"
   },
-  "generated": "2026-04-09 08:22:17",
+  "generated": "2026-04-10 08:23:10",
   "metrics": {
-    "total_revenue": 22060.0,
-    "total_notas": 4,
-    "avg_ticket": 5515.0,
-    "total_items": 14
+    "total_revenue": 27600.0,
+    "total_notas": 6,
+    "avg_ticket": 4600.0,
+    "total_items": 17
   },
   "top_customers": [
     {
@@ -19,30 +19,35 @@
     },
     {
       "rank": 2,
-      "name": "Jessica avila",
-      "revenue": 6500.0
+      "name": "Guaches",
+      "revenue": 8200.0
     },
     {
       "rank": 3,
-      "name": "Guaches",
-      "revenue": 4100.0
+      "name": "Jessica avila",
+      "revenue": 6500.0
     },
     {
       "rank": 4,
       "name": "Tocayo",
       "revenue": 2580.0
+    },
+    {
+      "rank": 5,
+      "name": "Los papis",
+      "revenue": 1440.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 91
+      "quantity": 151
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 49
+      "quantity": 55
     },
     {
       "rank": 3,
@@ -112,6 +117,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2580
+    },
+    {
+      "Timestamp": "4/9/2026 15:05:45",
+      "Remision": "20260409-0705",
+      "Fecha": "2026-04-09",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "4/10/2026 2:06:07",
+      "Remision": "20260409-1805",
+      "Fecha": "2026-04-09",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900},{\"cantidad\":6,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":540}]",
+      "Subtotal": 1440,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1440
     }
   ]
 }
