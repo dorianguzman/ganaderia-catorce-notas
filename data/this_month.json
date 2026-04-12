@@ -2,25 +2,25 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-11"
+    "end": "2026-04-12"
   },
-  "generated": "2026-04-11 07:54:02",
+  "generated": "2026-04-12 08:05:08",
   "metrics": {
-    "total_revenue": 27600.0,
-    "total_notas": 6,
-    "avg_ticket": 4600.0,
-    "total_items": 17
+    "total_revenue": 34310.0,
+    "total_notas": 8,
+    "avg_ticket": 4288.75,
+    "total_items": 19
   },
   "top_customers": [
     {
       "rank": 1,
-      "name": "Grammer",
-      "revenue": 8880.0
+      "name": "Guaches",
+      "revenue": 10660.0
     },
     {
       "rank": 2,
-      "name": "Guaches",
-      "revenue": 8200.0
+      "name": "Grammer",
+      "revenue": 8880.0
     },
     {
       "rank": 3,
@@ -29,20 +29,20 @@
     },
     {
       "rank": 4,
-      "name": "Tocayo",
-      "revenue": 2580.0
+      "name": "Parrilla del lobo",
+      "revenue": 4250.0
     },
     {
       "rank": 5,
-      "name": "Los papis",
-      "revenue": 1440.0
+      "name": "Tocayo",
+      "revenue": 2580.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 151
+      "quantity": 231
     },
     {
       "rank": 2,
@@ -143,6 +143,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1440
+    },
+    {
+      "Timestamp": "4/11/2026 16:58:59",
+      "Remision": "20260411-0858",
+      "Fecha": "2026-04-11",
+      "Cliente": "Parrilla del lobo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":4250}]",
+      "Subtotal": 4250,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4250
+    },
+    {
+      "Timestamp": "4/12/2026 6:22:05",
+      "Remision": "20260411-2221",
+      "Fecha": "2026-04-11",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":30,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":2460}]",
+      "Subtotal": 2460,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2460
     }
   ]
 }
