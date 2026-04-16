@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-14"
+    "end": "2026-04-16"
   },
-  "generated": "2026-04-14 08:46:55",
+  "generated": "2026-04-16 08:48:45",
   "metrics": {
-    "total_revenue": 34310.0,
-    "total_notas": 8,
-    "avg_ticket": 4288.75,
-    "total_items": 19
+    "total_revenue": 35848.0,
+    "total_notas": 9,
+    "avg_ticket": 3983.1111111111113,
+    "total_items": 22
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "Tocayo",
-      "revenue": 2580.0
+      "name": "Los papis",
+      "revenue": 2978.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 231
+      "quantity": 241
     },
     {
       "rank": 2,
@@ -57,7 +57,7 @@
     {
       "rank": 4,
       "name": "Trozo al pastor",
-      "quantity": 15
+      "quantity": 18
     },
     {
       "rank": 5,
@@ -169,6 +169,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2460
+    },
+    {
+      "Timestamp": "4/14/2026 23:23:46",
+      "Remision": "20260414-1520",
+      "Fecha": "2026-04-14",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900},{\"cantidad\":4,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":368},{\"cantidad\":3,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":270}]",
+      "Subtotal": 1538,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1538
     }
   ]
 }
