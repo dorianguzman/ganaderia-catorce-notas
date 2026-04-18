@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-17"
+    "end": "2026-04-18"
   },
-  "generated": "2026-04-17 08:48:08",
+  "generated": "2026-04-18 08:01:45",
   "metrics": {
-    "total_revenue": 35848.0,
-    "total_notas": 9,
-    "avg_ticket": 3983.1111111111113,
-    "total_items": 22
+    "total_revenue": 46147.3,
+    "total_notas": 12,
+    "avg_ticket": 3845.6083333333336,
+    "total_items": 31
   },
   "top_customers": [
     {
@@ -24,25 +24,25 @@
     },
     {
       "rank": 3,
+      "name": "Casa di zia",
+      "revenue": 7700.0
+    },
+    {
+      "rank": 4,
       "name": "Jessica avila",
       "revenue": 6500.0
     },
     {
-      "rank": 4,
-      "name": "Parrilla del lobo",
-      "revenue": 4250.0
-    },
-    {
       "rank": 5,
-      "name": "Los papis",
-      "revenue": 2978.0
+      "name": "Tocayo",
+      "revenue": 4699.3
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 241
+      "quantity": 255
     },
     {
       "rank": 2,
@@ -182,6 +182,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1538
+    },
+    {
+      "Timestamp": "4/17/2026 18:38:20",
+      "Remision": "20260417-1037",
+      "Fecha": "2026-04-17",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Pulpa/trozo\",\"pu\":80,\"importe\":480}]",
+      "Subtotal": 480,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 480
+    },
+    {
+      "Timestamp": "4/18/2026 0:37:03",
+      "Remision": "20260417-1634",
+      "Fecha": "2026-04-17",
+      "Cliente": "Tocayo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Chamorros\",\"pu\":30,\"importe\":240},{\"cantidad\":14,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":1190},{\"cantidad\":1,\"descripcion\":\"Diezmillo\",\"pu\":170,\"importe\":170},{\"cantidad\":1.11,\"descripcion\":\"New York \",\"pu\":230,\"importe\":255.3},{\"cantidad\":1.76,\"descripcion\":\"Ribeye\",\"pu\":150,\"importe\":264}]",
+      "Subtotal": 2119.3,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2119.3
+    },
+    {
+      "Timestamp": "4/18/2026 1:53:06",
+      "Remision": "20260417-1751",
+      "Fecha": "2026-04-17",
+      "Cliente": "Casa di zia",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Ribeye\",\"pu\":290,\"importe\":2900},{\"cantidad\":10,\"descripcion\":\"New York \",\"pu\":250,\"importe\":2500},{\"cantidad\":10,\"descripcion\":\"Diezmillo\",\"pu\":230,\"importe\":2300}]",
+      "Subtotal": 7700,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 7700
     }
   ]
 }
