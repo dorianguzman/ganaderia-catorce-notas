@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-18"
+    "end": "2026-04-19"
   },
-  "generated": "2026-04-18 08:01:45",
+  "generated": "2026-04-19 08:09:10",
   "metrics": {
-    "total_revenue": 46147.3,
-    "total_notas": 12,
-    "avg_ticket": 3845.6083333333336,
-    "total_items": 31
+    "total_revenue": 53217.3,
+    "total_notas": 15,
+    "avg_ticket": 3547.82,
+    "total_items": 38
   },
   "top_customers": [
     {
@@ -34,20 +34,20 @@
     },
     {
       "rank": 5,
-      "name": "Tocayo",
-      "revenue": 4699.3
+      "name": "Alejandro",
+      "revenue": 5970.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 255
+      "quantity": 310
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo entero",
-      "quantity": 55
+      "quantity": 75
     },
     {
       "rank": 3,
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 12
+      "name": "Pulpa/trozo",
+      "quantity": 15
     }
   ],
   "records": [
@@ -221,6 +221,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 7700
+    },
+    {
+      "Timestamp": "4/18/2026 17:29:32",
+      "Remision": "20260418-0928",
+      "Fecha": "2026-04-18",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":4,\"descripcion\":\"Pulpa/trozo\",\"pu\":80,\"importe\":320},{\"cantidad\":20,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":1600}]",
+      "Subtotal": 1920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1920
+    },
+    {
+      "Timestamp": "4/18/2026 17:31:43",
+      "Remision": "20260418-0931",
+      "Fecha": "2026-04-18",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4050}]",
+      "Subtotal": 4050,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4050
+    },
+    {
+      "Timestamp": "4/18/2026 20:50:21",
+      "Remision": "20260418-1249",
+      "Fecha": "2026-04-18",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Chorizo argentino\",\"pu\":100,\"importe\":300},{\"cantidad\":2,\"descripcion\":\"Chorizo español\",\"pu\":100,\"importe\":200},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":500},{\"cantidad\":1,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":100}]",
+      "Subtotal": 1100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1100
     }
   ]
 }
