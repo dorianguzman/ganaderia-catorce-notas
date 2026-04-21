@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-20"
+    "end": "2026-04-21"
   },
-  "generated": "2026-04-20 09:10:56",
+  "generated": "2026-04-21 08:55:49",
   "metrics": {
-    "total_revenue": 61417.3,
-    "total_notas": 17,
-    "avg_ticket": 3612.7823529411767,
-    "total_items": 40
+    "total_revenue": 80097.3,
+    "total_notas": 18,
+    "avg_ticket": 4449.85,
+    "total_items": 43
   },
   "top_customers": [
     {
@@ -19,23 +19,23 @@
     },
     {
       "rank": 2,
+      "name": "El torito huérfano",
+      "revenue": 18680.0
+    },
+    {
+      "rank": 3,
       "name": "Grammer",
       "revenue": 8880.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Casa di zia",
       "revenue": 7700.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Jessica avila",
       "revenue": 6500.0
-    },
-    {
-      "rank": 5,
-      "name": "Alejandro",
-      "revenue": 5970.0
     }
   ],
   "top_products": [
@@ -46,23 +46,23 @@
     },
     {
       "rank": 2,
+      "name": "Bistec adobado taquero",
+      "quantity": 120
+    },
+    {
+      "rank": 3,
       "name": "Bistec de cerdo entero",
       "quantity": 75
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Chuleta ahumada ",
       "quantity": 48
     },
     {
-      "rank": 4,
-      "name": "Trozo al pastor",
-      "quantity": 18
-    },
-    {
       "rank": 5,
-      "name": "Pulpa/trozo",
-      "quantity": 15
+      "name": "Chorizo verde",
+      "quantity": 40
     }
   ],
   "records": [
@@ -286,6 +286,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4100
+    },
+    {
+      "Timestamp": "4/21/2026 5:55:45",
+      "Remision": "20260420-2154",
+      "Fecha": "2026-04-20",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":40,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":4000},{\"cantidad\":40,\"descripcion\":\"Chorizo habanero\",\"pu\":100,\"importe\":4000},{\"cantidad\":120,\"descripcion\":\"Bistec adobado taquero\",\"pu\":89,\"importe\":10680}]",
+      "Subtotal": 18680,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 18680
     }
   ]
 }
