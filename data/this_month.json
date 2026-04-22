@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-21"
+    "end": "2026-04-22"
   },
-  "generated": "2026-04-21 08:55:49",
+  "generated": "2026-04-22 08:51:25",
   "metrics": {
-    "total_revenue": 80097.3,
-    "total_notas": 18,
-    "avg_ticket": 4449.85,
-    "total_items": 43
+    "total_revenue": 87938.90000000001,
+    "total_notas": 19,
+    "avg_ticket": 4628.363157894737,
+    "total_items": 46
   },
   "top_customers": [
     {
@@ -24,13 +24,13 @@
     },
     {
       "rank": 3,
-      "name": "Grammer",
-      "revenue": 8880.0
+      "name": "Casa di zia",
+      "revenue": 15541.6
     },
     {
       "rank": 4,
-      "name": "Casa di zia",
-      "revenue": 7700.0
+      "name": "Grammer",
+      "revenue": 8880.0
     },
     {
       "rank": 5,
@@ -299,6 +299,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 18680
+    },
+    {
+      "Timestamp": "4/22/2026 3:04:43",
+      "Remision": "20260421-1901",
+      "Fecha": "2026-04-21",
+      "Cliente": "Casa di zia",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10.23,\"descripcion\":\"New York porcionado\",\"pu\":250,\"importe\":2557.5},{\"cantidad\":10.29,\"descripcion\":\"Ribeye porcionado\",\"pu\":290,\"importe\":2984.1},{\"cantidad\":10,\"descripcion\":\"Diezmillo\",\"pu\":230,\"importe\":2300}]",
+      "Subtotal": 7841.6,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 7841.6
     }
   ]
 }
