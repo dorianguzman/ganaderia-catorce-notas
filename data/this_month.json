@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-23"
+    "end": "2026-04-24"
   },
-  "generated": "2026-04-23 08:57:03",
+  "generated": "2026-04-24 09:04:16",
   "metrics": {
-    "total_revenue": 87938.90000000001,
-    "total_notas": 19,
-    "avg_ticket": 4628.363157894737,
-    "total_items": 46
+    "total_revenue": 89478.90000000001,
+    "total_notas": 20,
+    "avg_ticket": 4473.945000000001,
+    "total_items": 48
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 410
+      "quantity": 420
     },
     {
       "rank": 2,
@@ -52,7 +52,7 @@
     {
       "rank": 3,
       "name": "Bistec de cerdo entero",
-      "quantity": 75
+      "quantity": 81
     },
     {
       "rank": 4,
@@ -312,6 +312,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 7841.6
+    },
+    {
+      "Timestamp": "4/24/2026 3:56:51",
+      "Remision": "20260423-1956",
+      "Fecha": "2026-04-23",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1000},{\"cantidad\":6,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":90,\"importe\":540}]",
+      "Subtotal": 1540,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1540
     }
   ]
 }
