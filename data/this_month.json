@@ -2,67 +2,67 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-25"
+    "end": "2026-04-26"
   },
-  "generated": "2026-04-25 08:08:29",
+  "generated": "2026-04-26 08:18:30",
   "metrics": {
-    "total_revenue": 114744.7,
-    "total_notas": 30,
-    "avg_ticket": 3824.8233333333333,
-    "total_items": 84
+    "total_revenue": 151727.7,
+    "total_notas": 38,
+    "avg_ticket": 3992.834210526316,
+    "total_items": 100
   },
   "top_customers": [
     {
       "rank": 1,
-      "name": "Guaches",
-      "revenue": 18860.0
+      "name": "Grammer",
+      "revenue": 36844.0
     },
     {
       "rank": 2,
+      "name": "Guaches",
+      "revenue": 23780.0
+    },
+    {
+      "rank": 3,
       "name": "El torito huérfano",
       "revenue": 18680.0
     },
     {
-      "rank": 3,
-      "name": "Grammer",
-      "revenue": 18224.0
-    },
-    {
       "rank": 4,
-      "name": "Casa di zia",
-      "revenue": 15541.6
+      "name": "Jessica avila",
+      "revenue": 18253.0
     },
     {
       "rank": 5,
-      "name": "Jonathan",
-      "revenue": 11461.0
+      "name": "Casa di zia",
+      "revenue": 15541.6
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 500
+      "quantity": 614
     },
     {
       "rank": 2,
+      "name": "Pulpa/trozo",
+      "quantity": 126
+    },
+    {
+      "rank": 3,
       "name": "Bistec adobado taquero",
       "quantity": 120
     },
     {
-      "rank": 3,
-      "name": "Pulpa/trozo",
-      "quantity": 115
-    },
-    {
       "rank": 4,
       "name": "Bistec de cerdo entero",
-      "quantity": 99
+      "quantity": 108
     },
     {
       "rank": 5,
-      "name": "Chuleta ahumada ",
-      "quantity": 48
+      "name": "Pulpa/trozo de cerdo",
+      "quantity": 89
     }
   ],
   "records": [
@@ -455,6 +455,110 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2395
+    },
+    {
+      "Timestamp": "4/25/2026 15:58:02",
+      "Remision": "20260425-0757",
+      "Fecha": "2026-04-25",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
+    },
+    {
+      "Timestamp": "4/25/2026 15:59:01",
+      "Remision": "20260425-0758",
+      "Fecha": "2026-04-25",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":810}]",
+      "Subtotal": 810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 810
+    },
+    {
+      "Timestamp": "4/25/2026 17:25:25",
+      "Remision": "20260425-0925",
+      "Fecha": "2026-04-25",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":980,\"importe\":9800}]",
+      "Subtotal": 9800,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 9800
+    },
+    {
+      "Timestamp": "4/25/2026 17:25:53",
+      "Remision": "20260425-0925",
+      "Fecha": "2026-04-25",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":980}]",
+      "Subtotal": 980,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 980
+    },
+    {
+      "Timestamp": "4/25/2026 17:26:25",
+      "Remision": "20260425-0926",
+      "Fecha": "2026-04-25",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":89,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":80,\"importe\":7120}]",
+      "Subtotal": 7120,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 7120
+    },
+    {
+      "Timestamp": "4/25/2026 17:26:57",
+      "Remision": "20260425-0926",
+      "Fecha": "2026-04-25",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":11,\"descripcion\":\"Pulpa/trozo\",\"pu\":80,\"importe\":880}]",
+      "Subtotal": 880,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 880
+    },
+    {
+      "Timestamp": "4/25/2026 17:27:28",
+      "Remision": "20260425-0927",
+      "Fecha": "2026-04-25",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":720}]",
+      "Subtotal": 720,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 720
+    },
+    {
+      "Timestamp": "4/25/2026 21:00:48",
+      "Remision": "20260425-1256",
+      "Fecha": "2026-04-25",
+      "Cliente": "Jessica avila",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Chorizo habanero\",\"pu\":110,\"importe\":1100},{\"cantidad\":10,\"descripcion\":\"Chorizo verde\",\"pu\":110,\"importe\":1100},{\"cantidad\":5,\"descripcion\":\"Diezmillo\",\"pu\":210,\"importe\":1050},{\"cantidad\":3,\"descripcion\":\"Ribeye\",\"pu\":280,\"importe\":840},{\"cantidad\":3,\"descripcion\":\"New York porcionado\",\"pu\":250,\"importe\":750},{\"cantidad\":3.6,\"descripcion\":\"T-bone porcionado\",\"pu\":280,\"importe\":1008},{\"cantidad\":25,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":3375},{\"cantidad\":25,\"descripcion\":\"Arrachera marinada\",\"pu\":120,\"importe\":3000},{\"cantidad\":25,\"descripcion\":\"Bolsas\",\"pu\":2,\"importe\":50}]",
+      "Subtotal": 12273,
+      "IVA": 0,
+      "Descuento": 520,
+      "Total": 11753
     }
   ]
 }
