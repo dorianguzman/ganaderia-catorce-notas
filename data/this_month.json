@@ -2,20 +2,20 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-28"
+    "end": "2026-04-29"
   },
-  "generated": "2026-04-28 09:27:59",
+  "generated": "2026-04-29 09:16:14",
   "metrics": {
-    "total_revenue": 151727.7,
-    "total_notas": 38,
-    "avg_ticket": 3992.834210526316,
-    "total_items": 100
+    "total_revenue": 161391.7,
+    "total_notas": 42,
+    "avg_ticket": 3842.659523809524,
+    "total_items": 105
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Grammer",
-      "revenue": 36844.0
+      "revenue": 44934.0
     },
     {
       "rank": 2,
@@ -42,27 +42,27 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 614
+      "quantity": 617
     },
     {
       "rank": 2,
+      "name": "Pulpa/trozo de cerdo",
+      "quantity": 132
+    },
+    {
+      "rank": 3,
       "name": "Pulpa/trozo",
       "quantity": 126
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Bistec adobado taquero",
       "quantity": 120
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Bistec de cerdo entero",
       "quantity": 108
-    },
-    {
-      "rank": 5,
-      "name": "Pulpa/trozo de cerdo",
-      "quantity": 89
     }
   ],
   "records": [
@@ -559,6 +559,58 @@
       "IVA": 0,
       "Descuento": 520,
       "Total": 11753
+    },
+    {
+      "Timestamp": "4/28/2026 20:21:56",
+      "Remision": "20260428-1220",
+      "Fecha": "2026-04-28",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":55,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":4400},{\"cantidad\":10,\"descripcion\":\"Cuero delgado\",\"pu\":25,\"importe\":250}]",
+      "Subtotal": 4650,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4650
+    },
+    {
+      "Timestamp": "4/28/2026 20:23:01",
+      "Remision": "20260428-1222",
+      "Fecha": "2026-04-28",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":43,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":80,\"importe\":3440}]",
+      "Subtotal": 3440,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3440
+    },
+    {
+      "Timestamp": "4/28/2026 20:23:41",
+      "Remision": "20260428-1223",
+      "Fecha": "2026-04-28",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":16,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":1280}]",
+      "Subtotal": 1280,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1280
+    },
+    {
+      "Timestamp": "4/28/2026 20:24:41",
+      "Remision": "20260428-1224",
+      "Fecha": "2026-04-28",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":294}]",
+      "Subtotal": 294,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 294
     }
   ]
 }
