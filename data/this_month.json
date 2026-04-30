@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-04-01",
-    "end": "2026-04-29"
+    "end": "2026-04-30"
   },
-  "generated": "2026-04-29 09:16:14",
+  "generated": "2026-04-30 09:20:32",
   "metrics": {
-    "total_revenue": 161391.7,
-    "total_notas": 42,
-    "avg_ticket": 3842.659523809524,
-    "total_items": 105
+    "total_revenue": 163806.7,
+    "total_notas": 43,
+    "avg_ticket": 3809.458139534884,
+    "total_items": 107
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 617
+      "quantity": 629
     },
     {
       "rank": 2,
@@ -611,6 +611,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 294
+    },
+    {
+      "Timestamp": "4/30/2026 1:07:29",
+      "Remision": "20260429-1706",
+      "Fecha": "2026-04-29",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1200},{\"cantidad\":9,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":1215}]",
+      "Subtotal": 2415,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2415
     }
   ]
 }
