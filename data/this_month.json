@@ -2,16 +2,57 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-01"
+    "end": "2026-05-02"
   },
-  "generated": "2026-05-01 09:04:35",
+  "generated": "2026-05-02 08:24:10",
   "metrics": {
-    "total_revenue": 0,
-    "total_notas": 0,
-    "avg_ticket": 0,
-    "total_items": 0
+    "total_revenue": 7260.0,
+    "total_notas": 1,
+    "avg_ticket": 7260.0,
+    "total_items": 4
   },
-  "top_customers": [],
-  "top_products": [],
-  "records": []
+  "top_customers": [
+    {
+      "rank": 1,
+      "name": "Alejandro",
+      "revenue": 7260.0
+    }
+  ],
+  "top_products": [
+    {
+      "rank": 1,
+      "name": "Arrachera marinada",
+      "quantity": 60
+    },
+    {
+      "rank": 2,
+      "name": "Bistec de cerdo entero",
+      "quantity": 25
+    },
+    {
+      "rank": 3,
+      "name": "Ribeye",
+      "quantity": 0.8
+    },
+    {
+      "rank": 4,
+      "name": "New York",
+      "quantity": 0.8
+    }
+  ],
+  "records": [
+    {
+      "Timestamp": "5/1/2026 20:03:55",
+      "Remision": "20260501-1202",
+      "Fecha": "2026-05-01",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4860},{\"cantidad\":25,\"descripcion\":\"Bistec de cerdo entero\",\"pu\":80,\"importe\":2000},{\"cantidad\":0.8,\"descripcion\":\"Ribeye\",\"pu\":260,\"importe\":208},{\"cantidad\":0.8,\"descripcion\":\"New York\",\"pu\":240,\"importe\":192}]",
+      "Subtotal": 7260,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 7260
+    }
+  ]
 }
