@@ -2,27 +2,32 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-04"
+    "end": "2026-05-05"
   },
-  "generated": "2026-05-04 09:26:21",
+  "generated": "2026-05-05 09:11:32",
   "metrics": {
-    "total_revenue": 7260.0,
-    "total_notas": 1,
-    "avg_ticket": 7260.0,
-    "total_items": 4
+    "total_revenue": 12600.0,
+    "total_notas": 3,
+    "avg_ticket": 4200.0,
+    "total_items": 7
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Alejandro",
-      "revenue": 7260.0
+      "revenue": 11700.0
+    },
+    {
+      "rank": 2,
+      "name": "Los papis",
+      "revenue": 900.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 60
+      "quantity": 110
     },
     {
       "rank": 2,
@@ -31,11 +36,16 @@
     },
     {
       "rank": 3,
+      "name": "Aguja marinada",
+      "quantity": 10
+    },
+    {
+      "rank": 4,
       "name": "Ribeye",
       "quantity": 0.8
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "New York",
       "quantity": 0.8
     }
@@ -53,6 +63,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 7260
+    },
+    {
+      "Timestamp": "5/4/2026 16:22:46",
+      "Remision": "20260504-0822",
+      "Fecha": "2026-05-04",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":40,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":3240},{\"cantidad\":10,\"descripcion\":\"Aguja marinada\",\"pu\":120,\"importe\":1200}]",
+      "Subtotal": 4440,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4440
+    },
+    {
+      "Timestamp": "5/4/2026 16:24:21",
+      "Remision": "20260504-0823",
+      "Fecha": "2026-05-04",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900}]",
+      "Subtotal": 900,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 900
     }
   ]
 }
