@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-05"
+    "end": "2026-05-06"
   },
-  "generated": "2026-05-05 09:11:32",
+  "generated": "2026-05-06 09:29:30",
   "metrics": {
-    "total_revenue": 12600.0,
-    "total_notas": 3,
-    "avg_ticket": 4200.0,
-    "total_items": 7
+    "total_revenue": 16340.0,
+    "total_notas": 5,
+    "avg_ticket": 3268.0,
+    "total_items": 10
   },
   "top_customers": [
     {
@@ -19,15 +19,20 @@
     },
     {
       "rank": 2,
+      "name": "Tacos memo",
+      "revenue": 2820.0
+    },
+    {
+      "rank": 3,
       "name": "Los papis",
-      "revenue": 900.0
+      "revenue": 1820.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 110
+      "quantity": 122
     },
     {
       "rank": 2,
@@ -37,16 +42,16 @@
     {
       "rank": 3,
       "name": "Aguja marinada",
-      "quantity": 10
+      "quantity": 22
     },
     {
       "rank": 4,
-      "name": "Ribeye",
-      "quantity": 0.8
+      "name": "Bistec picado",
+      "quantity": 10
     },
     {
       "rank": 5,
-      "name": "New York",
+      "name": "Ribeye",
       "quantity": 0.8
     }
   ],
@@ -89,6 +94,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 900
+    },
+    {
+      "Timestamp": "5/6/2026 0:48:21",
+      "Remision": "20260505-1648",
+      "Fecha": "2026-05-05",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Bistec picado\",\"pu\":92,\"importe\":920}]",
+      "Subtotal": 920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 920
+    },
+    {
+      "Timestamp": "5/6/2026 1:23:40",
+      "Remision": "20260505-1723",
+      "Fecha": "2026-05-05",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":1620},{\"cantidad\":12,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1200}]",
+      "Subtotal": 2820,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2820
     }
   ]
 }
