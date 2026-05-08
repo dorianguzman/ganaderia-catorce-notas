@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-07"
+    "end": "2026-05-08"
   },
-  "generated": "2026-05-07 09:39:47",
+  "generated": "2026-05-08 08:24:33",
   "metrics": {
-    "total_revenue": 16340.0,
-    "total_notas": 5,
-    "avg_ticket": 3268.0,
-    "total_items": 10
+    "total_revenue": 21260.0,
+    "total_notas": 6,
+    "avg_ticket": 3543.3333333333335,
+    "total_items": 11
   },
   "top_customers": [
     {
@@ -19,11 +19,16 @@
     },
     {
       "rank": 2,
+      "name": "Guaches",
+      "revenue": 4920.0
+    },
+    {
+      "rank": 3,
       "name": "Tacos memo",
       "revenue": 2820.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Los papis",
       "revenue": 1820.0
     }
@@ -32,7 +37,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 122
+      "quantity": 182
     },
     {
       "rank": 2,
@@ -120,6 +125,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2820
+    },
+    {
+      "Timestamp": "5/7/2026 18:51:17",
+      "Remision": "20260507-1050",
+      "Fecha": "2026-05-07",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
     }
   ]
 }
