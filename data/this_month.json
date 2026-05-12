@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-11"
+    "end": "2026-05-12"
   },
-  "generated": "2026-05-11 10:40:16",
+  "generated": "2026-05-12 09:44:25",
   "metrics": {
-    "total_revenue": 23958.0,
-    "total_notas": 9,
-    "avg_ticket": 2662.0,
-    "total_items": 16
+    "total_revenue": 26643.0,
+    "total_notas": 11,
+    "avg_ticket": 2422.090909090909,
+    "total_items": 26
   },
   "top_customers": [
     {
@@ -29,30 +29,30 @@
     },
     {
       "rank": 4,
-      "name": "Servilamina",
-      "revenue": 1978.0
+      "name": "Jonathan",
+      "revenue": 2195.0
     },
     {
       "rank": 5,
-      "name": "Los papis",
-      "revenue": 1820.0
+      "name": "Servilamina",
+      "revenue": 1978.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 183
+      "quantity": 190
     },
     {
       "rank": 2,
-      "name": "Bistec de cerdo entero",
-      "quantity": 25
+      "name": "Aguja marinada",
+      "quantity": 26
     },
     {
       "rank": 3,
-      "name": "Aguja marinada",
-      "quantity": 22
+      "name": "Bistec de cerdo entero",
+      "quantity": 25
     },
     {
       "rank": 4,
@@ -182,6 +182,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 480
+    },
+    {
+      "Timestamp": "5/11/2026 18:29:21",
+      "Remision": "20260511-1024",
+      "Fecha": "2026-05-11",
+      "Cliente": "Alma Delia Arreaga salinas",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":1,\"descripcion\":\"Chuleton\",\"pu\":130,\"importe\":130},{\"cantidad\":1,\"descripcion\":\"Aguja marinada\",\"pu\":140,\"importe\":140},{\"cantidad\":1,\"descripcion\":\"Diezmillo\",\"pu\":220,\"importe\":220}]",
+      "Subtotal": 490,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 490
+    },
+    {
+      "Timestamp": "5/11/2026 18:34:14",
+      "Remision": "20260511-1032",
+      "Fecha": "2026-05-11",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":405},{\"cantidad\":7,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":700},{\"cantidad\":1,\"descripcion\":\"Chorizo español\",\"pu\":100,\"importe\":100},{\"cantidad\":2,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":200},{\"cantidad\":2,\"descripcion\":\"Salsa de piña\",\"pu\":110,\"importe\":220},{\"cantidad\":1,\"descripcion\":\"Sazonador\",\"pu\":250,\"importe\":250},{\"cantidad\":1,\"descripcion\":\"Aluminio \",\"pu\":330,\"importe\":330}]",
+      "Subtotal": 2205,
+      "IVA": 0,
+      "Descuento": 10,
+      "Total": 2195
     }
   ]
 }
