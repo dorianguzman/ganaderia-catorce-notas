@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-16"
+    "end": "2026-05-17"
   },
-  "generated": "2026-05-16 08:51:52",
+  "generated": "2026-05-17 09:08:46",
   "metrics": {
-    "total_revenue": 58593.0,
-    "total_notas": 16,
-    "avg_ticket": 3662.0625,
-    "total_items": 38
+    "total_revenue": 60033.0,
+    "total_notas": 17,
+    "avg_ticket": 3531.3529411764707,
+    "total_items": 39
   },
   "top_customers": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "rank": 5,
-      "name": "Los papis",
-      "revenue": 3358.0
+      "name": "Servilamina",
+      "revenue": 3418.0
     }
   ],
   "top_products": [
@@ -46,22 +46,22 @@
     },
     {
       "rank": 2,
+      "name": "Bistec de cerdo",
+      "quantity": 62
+    },
+    {
+      "rank": 3,
       "name": "Aguja marinada",
       "quantity": 58
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Chorizo habanero",
       "quantity": 50
     },
     {
-      "rank": 4,
-      "name": "Chorizo verde",
-      "quantity": 50
-    },
-    {
       "rank": 5,
-      "name": "Bistec adobado taquero",
+      "name": "Chorizo verde",
       "quantity": 50
     }
   ],
@@ -273,6 +273,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 8222
+    },
+    {
+      "Timestamp": "5/16/2026 18:14:32",
+      "Remision": "20260516-1014",
+      "Fecha": "2026-05-16",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":18,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":1440}]",
+      "Subtotal": 1440,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1440
     }
   ]
 }
