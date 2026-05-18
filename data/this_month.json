@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-17"
+    "end": "2026-05-18"
   },
-  "generated": "2026-05-17 09:08:46",
+  "generated": "2026-05-18 11:09:49",
   "metrics": {
-    "total_revenue": 60033.0,
-    "total_notas": 17,
-    "avg_ticket": 3531.3529411764707,
-    "total_items": 39
+    "total_revenue": 64953.0,
+    "total_notas": 18,
+    "avg_ticket": 3608.5,
+    "total_items": 40
   },
   "top_customers": [
     {
@@ -19,13 +19,13 @@
     },
     {
       "rank": 2,
-      "name": "El torito huérfano",
-      "revenue": 14450.0
+      "name": "Guaches",
+      "revenue": 14760.0
     },
     {
       "rank": 3,
-      "name": "Guaches",
-      "revenue": 9840.0
+      "name": "El torito huérfano",
+      "revenue": 14450.0
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 324
+      "quantity": 384
     },
     {
       "rank": 2,
@@ -286,6 +286,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1440
+    },
+    {
+      "Timestamp": "5/17/2026 16:37:09",
+      "Remision": "20260517-0836",
+      "Fecha": "2026-05-17",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
     }
   ]
 }
