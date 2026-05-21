@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-20"
+    "end": "2026-05-21"
   },
-  "generated": "2026-05-20 10:26:38",
+  "generated": "2026-05-21 10:42:10",
   "metrics": {
-    "total_revenue": 64953.0,
-    "total_notas": 18,
-    "avg_ticket": 3608.5,
-    "total_items": 40
+    "total_revenue": 67233.0,
+    "total_notas": 19,
+    "avg_ticket": 3538.5789473684213,
+    "total_items": 42
   },
   "top_customers": [
     {
@@ -30,7 +30,7 @@
     {
       "rank": 4,
       "name": "Tacos memo",
-      "revenue": 5640.0
+      "revenue": 7920.0
     },
     {
       "rank": 5,
@@ -42,17 +42,17 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 384
+      "quantity": 396
     },
     {
       "rank": 2,
-      "name": "Bistec de cerdo",
-      "quantity": 62
+      "name": "Aguja marinada",
+      "quantity": 66
     },
     {
       "rank": 3,
-      "name": "Aguja marinada",
-      "quantity": 58
+      "name": "Bistec de cerdo",
+      "quantity": 62
     },
     {
       "rank": 4,
@@ -299,6 +299,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4920
+    },
+    {
+      "Timestamp": "5/20/2026 18:25:08",
+      "Remision": "20260520-1024",
+      "Fecha": "2026-05-20",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1200},{\"cantidad\":8,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":1080}]",
+      "Subtotal": 2280,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2280
     }
   ]
 }
