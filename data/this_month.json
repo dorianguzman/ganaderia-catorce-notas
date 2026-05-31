@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-05-01",
-    "end": "2026-05-30"
+    "end": "2026-05-31"
   },
-  "generated": "2026-05-30 09:23:28",
+  "generated": "2026-05-31 09:48:26",
   "metrics": {
-    "total_revenue": 133379.0,
-    "total_notas": 29,
-    "avg_ticket": 4599.275862068966,
-    "total_items": 65
+    "total_revenue": 134549.0,
+    "total_notas": 30,
+    "avg_ticket": 4484.966666666666,
+    "total_items": 67
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 967
+      "quantity": 977
     },
     {
       "rank": 2,
@@ -442,6 +442,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1480
+    },
+    {
+      "Timestamp": "5/30/2026 20:26:52",
+      "Remision": "20260530-1226",
+      "Fecha": "2026-05-30",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":270},{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":900}]",
+      "Subtotal": 1170,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1170
     }
   ]
 }
