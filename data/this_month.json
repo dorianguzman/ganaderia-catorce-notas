@@ -2,9 +2,9 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-02"
+    "end": "2026-06-03"
   },
-  "generated": "2026-06-02 11:21:57",
+  "generated": "2026-06-03 11:58:59",
   "metrics": {
     "total_revenue": 1105.0,
     "total_notas": 1,
