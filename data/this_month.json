@@ -2,30 +2,45 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-03"
+    "end": "2026-06-04"
   },
-  "generated": "2026-06-03 11:58:59",
+  "generated": "2026-06-04 10:40:31",
   "metrics": {
-    "total_revenue": 1105.0,
-    "total_notas": 1,
-    "avg_ticket": 1105.0,
-    "total_items": 2
+    "total_revenue": 3615.0,
+    "total_notas": 4,
+    "avg_ticket": 903.75,
+    "total_items": 6
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Grammer",
+      "revenue": 2190.0
+    },
+    {
+      "rank": 2,
       "name": "Tacos memo",
       "revenue": 1105.0
+    },
+    {
+      "rank": 3,
+      "name": "Servilamina",
+      "revenue": 320.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 7
+      "quantity": 22
     },
     {
       "rank": 2,
+      "name": "Bistec de cerdo",
+      "quantity": 13
+    },
+    {
+      "rank": 3,
       "name": "Aguja marinada",
       "quantity": 3
     }
@@ -43,6 +58,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1105
+    },
+    {
+      "Timestamp": "6/3/2026 17:21:03",
+      "Remision": "20260603-0920",
+      "Fecha": "2026-06-03",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":720},{\"cantidad\":7,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":686}]",
+      "Subtotal": 1406,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1406
+    },
+    {
+      "Timestamp": "6/3/2026 17:21:43",
+      "Remision": "20260603-0921",
+      "Fecha": "2026-06-03",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":4,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":320}]",
+      "Subtotal": 320,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 320
+    },
+    {
+      "Timestamp": "6/3/2026 17:40:53",
+      "Remision": "20260603-0940",
+      "Fecha": "2026-06-03",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":784}]",
+      "Subtotal": 784,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 784
     }
   ]
 }
