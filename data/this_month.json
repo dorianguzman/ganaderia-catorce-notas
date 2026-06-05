@@ -2,28 +2,38 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-04"
+    "end": "2026-06-05"
   },
-  "generated": "2026-06-04 10:40:31",
+  "generated": "2026-06-05 10:51:38",
   "metrics": {
-    "total_revenue": 3615.0,
-    "total_notas": 4,
-    "avg_ticket": 903.75,
-    "total_items": 6
+    "total_revenue": 11775.0,
+    "total_notas": 6,
+    "avg_ticket": 1962.5,
+    "total_items": 9
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Guaches",
+      "revenue": 4920.0
+    },
+    {
+      "rank": 2,
+      "name": "Alejandro",
+      "revenue": 3240.0
+    },
+    {
+      "rank": 3,
       "name": "Grammer",
       "revenue": 2190.0
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Tacos memo",
       "revenue": 1105.0
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Servilamina",
       "revenue": 320.0
     }
@@ -32,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 22
+      "quantity": 112
     },
     {
       "rank": 2,
@@ -41,6 +51,11 @@
     },
     {
       "rank": 3,
+      "name": "Bistec adobado taquero",
+      "quantity": 10
+    },
+    {
+      "rank": 4,
       "name": "Aguja marinada",
       "quantity": 3
     }
@@ -97,6 +112,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 784
+    },
+    {
+      "Timestamp": "6/4/2026 18:13:29",
+      "Remision": "20260604-1013",
+      "Fecha": "2026-06-04",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
+    },
+    {
+      "Timestamp": "6/4/2026 23:50:21",
+      "Remision": "20260604-1549",
+      "Fecha": "2026-06-04",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":30,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":2430},{\"cantidad\":10,\"descripcion\":\"Bistec adobado taquero\",\"pu\":81,\"importe\":810}]",
+      "Subtotal": 3240,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3240
     }
   ]
 }
