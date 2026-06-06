@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-05"
+    "end": "2026-06-06"
   },
-  "generated": "2026-06-05 10:51:38",
+  "generated": "2026-06-06 09:28:17",
   "metrics": {
-    "total_revenue": 11775.0,
-    "total_notas": 6,
-    "avg_ticket": 1962.5,
-    "total_items": 9
+    "total_revenue": 13805.0,
+    "total_notas": 7,
+    "avg_ticket": 1972.142857142857,
+    "total_items": 13
   },
   "top_customers": [
     {
@@ -29,20 +29,20 @@
     },
     {
       "rank": 4,
-      "name": "Tacos memo",
-      "revenue": 1105.0
+      "name": "J G",
+      "revenue": 2030.0
     },
     {
       "rank": 5,
-      "name": "Servilamina",
-      "revenue": 320.0
+      "name": "Tacos memo",
+      "revenue": 1105.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 112
+      "quantity": 115
     },
     {
       "rank": 2,
@@ -57,6 +57,11 @@
     {
       "rank": 4,
       "name": "Aguja marinada",
+      "quantity": 3
+    },
+    {
+      "rank": 5,
+      "name": "Ribe eye",
       "quantity": 3
     }
   ],
@@ -138,6 +143,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 3240
+    },
+    {
+      "Timestamp": "6/6/2026 7:34:26",
+      "Remision": "20260605-2331",
+      "Fecha": "2026-06-05",
+      "Cliente": "J G",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Arrachera marinada\",\"pu\":120,\"importe\":360},{\"cantidad\":2,\"descripcion\":\"New York\",\"pu\":250,\"importe\":500},{\"cantidad\":3,\"descripcion\":\"Ribe eye\",\"pu\":270,\"importe\":810},{\"cantidad\":2,\"descripcion\":\"Diezmillo\",\"pu\":220,\"importe\":440}]",
+      "Subtotal": 2110,
+      "IVA": 0,
+      "Descuento": 80,
+      "Total": 2030
     }
   ]
 }
