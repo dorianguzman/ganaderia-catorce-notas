@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-14"
+    "end": "2026-06-15"
   },
-  "generated": "2026-06-14 10:27:58",
+  "generated": "2026-06-15 13:20:47",
   "metrics": {
-    "total_revenue": 67507.5,
-    "total_notas": 25,
-    "avg_ticket": 2700.3,
-    "total_items": 58
+    "total_revenue": 72536.0,
+    "total_notas": 26,
+    "avg_ticket": 2789.846153846154,
+    "total_items": 59
   },
   "top_customers": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "rank": 5,
-      "name": "Tacos memo",
-      "revenue": 4725.0
+      "name": "El torito huérfano",
+      "revenue": 5028.5
     }
   ],
   "top_products": [
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
+      "name": "Bistec adobado taquero",
+      "quantity": 81.5
+    },
+    {
+      "rank": 4,
       "name": "Chuleta ahumada",
       "quantity": 57
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Chuleta ahumada ",
       "quantity": 48
-    },
-    {
-      "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 44
     }
   ],
   "records": [
@@ -390,6 +390,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 5502
+    },
+    {
+      "Timestamp": "6/15/2026 4:33:30",
+      "Remision": "20260614-2032",
+      "Fecha": "2026-06-14",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":56.5,\"descripcion\":\"Bistec adobado taquero\",\"pu\":89,\"importe\":5028.5}]",
+      "Subtotal": 5028.5,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 5028.5
     }
   ]
 }
