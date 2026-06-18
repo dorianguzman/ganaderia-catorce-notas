@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-17"
+    "end": "2026-06-18"
   },
-  "generated": "2026-06-17 11:53:54",
+  "generated": "2026-06-18 11:11:17",
   "metrics": {
-    "total_revenue": 72536.0,
-    "total_notas": 26,
-    "avg_ticket": 2789.846153846154,
-    "total_items": 59
+    "total_revenue": 74346.0,
+    "total_notas": 27,
+    "avg_ticket": 2753.5555555555557,
+    "total_items": 61
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "El torito huérfano",
-      "revenue": 5028.5
+      "name": "Tacos memo",
+      "revenue": 6535.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 404
+      "quantity": 414
     },
     {
       "rank": 2,
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Chuleta ahumada ",
-      "quantity": 48
+      "name": "Aguja marinada",
+      "quantity": 50
     }
   ],
   "records": [
@@ -403,6 +403,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 5028.5
+    },
+    {
+      "Timestamp": "6/17/2026 21:43:01",
+      "Remision": "20260617-1342",
+      "Fecha": "2026-06-17",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1000},{\"cantidad\":6,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":810}]",
+      "Subtotal": 1810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1810
     }
   ]
 }
