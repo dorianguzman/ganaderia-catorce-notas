@@ -2,30 +2,30 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-18"
+    "end": "2026-06-19"
   },
-  "generated": "2026-06-18 11:11:17",
+  "generated": "2026-06-19 11:39:01",
   "metrics": {
-    "total_revenue": 74346.0,
-    "total_notas": 27,
-    "avg_ticket": 2753.5555555555557,
-    "total_items": 61
+    "total_revenue": 82776.0,
+    "total_notas": 30,
+    "avg_ticket": 2759.2,
+    "total_items": 66
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Guaches",
+      "revenue": 18860.0
+    },
+    {
+      "rank": 2,
       "name": "Grammer",
       "revenue": 18696.0
     },
     {
-      "rank": 2,
-      "name": "Alejandro",
-      "revenue": 15360.0
-    },
-    {
       "rank": 3,
-      "name": "Guaches",
-      "revenue": 13940.0
+      "name": "Alejandro",
+      "revenue": 17790.0
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 414
+      "quantity": 509
     },
     {
       "rank": 2,
@@ -416,6 +416,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1810
+    },
+    {
+      "Timestamp": "6/19/2026 1:37:34",
+      "Remision": "20260618-1736",
+      "Fecha": "2026-06-18",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":90,\"importe\":450},{\"cantidad\":5,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":90,\"importe\":450},{\"cantidad\":2,\"descripcion\":\"Trozo al pastor\",\"pu\":90,\"importe\":180}]",
+      "Subtotal": 1080,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1080
+    },
+    {
+      "Timestamp": "6/19/2026 1:38:29",
+      "Remision": "20260618-1737",
+      "Fecha": "2026-06-18",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":30,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":2430}]",
+      "Subtotal": 2430,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2430
+    },
+    {
+      "Timestamp": "6/19/2026 1:42:02",
+      "Remision": "20260618-1741",
+      "Fecha": "2026-06-18",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
     }
   ]
 }
