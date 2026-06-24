@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-23"
+    "end": "2026-06-24"
   },
-  "generated": "2026-06-23 10:38:27",
+  "generated": "2026-06-24 10:24:52",
   "metrics": {
-    "total_revenue": 97235.0,
-    "total_notas": 37,
-    "avg_ticket": 2627.972972972973,
-    "total_items": 80
+    "total_revenue": 106385.0,
+    "total_notas": 39,
+    "avg_ticket": 2727.8205128205127,
+    "total_items": 83
   },
   "top_customers": [
     {
@@ -29,20 +29,20 @@
     },
     {
       "rank": 4,
-      "name": "Jonathan",
-      "revenue": 7632.0
+      "name": "El torito huérfano",
+      "revenue": 12368.5
     },
     {
       "rank": 5,
       "name": "Tacos memo",
-      "revenue": 6535.0
+      "revenue": 8345.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 600
+      "quantity": 610
     },
     {
       "rank": 2,
@@ -56,13 +56,13 @@
     },
     {
       "rank": 4,
-      "name": "Chuleta ahumada",
-      "quantity": 57
+      "name": "Chorizo verde",
+      "quantity": 73.4
     },
     {
       "rank": 5,
       "name": "Aguja marinada",
-      "quantity": 52
+      "quantity": 58
     }
   ],
   "records": [
@@ -546,6 +546,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 680
+    },
+    {
+      "Timestamp": "6/23/2026 22:51:23",
+      "Remision": "20260623-1449",
+      "Fecha": "2026-06-23",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":73.4,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":7340.000000000001}]",
+      "Subtotal": 7340,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 7340
+    },
+    {
+      "Timestamp": "6/23/2026 23:09:45",
+      "Remision": "20260623-1509",
+      "Fecha": "2026-06-23",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1000},{\"cantidad\":6,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":810}]",
+      "Subtotal": 1810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1810
     }
   ]
 }
