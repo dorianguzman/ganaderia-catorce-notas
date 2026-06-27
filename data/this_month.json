@@ -2,30 +2,30 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-26"
+    "end": "2026-06-27"
   },
-  "generated": "2026-06-26 10:25:25",
+  "generated": "2026-06-27 09:31:19",
   "metrics": {
-    "total_revenue": 107915.0,
-    "total_notas": 40,
-    "avg_ticket": 2697.875,
-    "total_items": 85
+    "total_revenue": 119793.0,
+    "total_notas": 46,
+    "avg_ticket": 2604.195652173913,
+    "total_items": 94
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Guaches",
-      "revenue": 23780.0
+      "revenue": 27880.0
     },
     {
       "rank": 2,
       "name": "Grammer",
-      "revenue": 20724.0
+      "revenue": 23322.0
     },
     {
       "rank": 3,
       "name": "Alejandro",
-      "revenue": 17790.0
+      "revenue": 21516.0
     },
     {
       "rank": 4,
@@ -42,12 +42,12 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 620
+      "quantity": 730
     },
     {
       "rank": 2,
       "name": "Bistec de cerdo",
-      "quantity": 149
+      "quantity": 173
     },
     {
       "rank": 3,
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 58
+      "name": "Chuleta ahumada",
+      "quantity": 65
     }
   ],
   "records": [
@@ -585,6 +585,84 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1530
+    },
+    {
+      "Timestamp": "6/26/2026 17:30:49",
+      "Remision": "20260626-0930",
+      "Fecha": "2026-06-26",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":800},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 1290,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1290
+    },
+    {
+      "Timestamp": "6/26/2026 17:31:33",
+      "Remision": "20260626-0931",
+      "Fecha": "2026-06-26",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":720},{\"cantidad\":6,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":588}]",
+      "Subtotal": 1308,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1308
+    },
+    {
+      "Timestamp": "6/26/2026 17:32:15",
+      "Remision": "20260626-0931",
+      "Fecha": "2026-06-26",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Chuleta ahumada\",\"pu\":95,\"importe\":760}]",
+      "Subtotal": 760,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 760
+    },
+    {
+      "Timestamp": "6/26/2026 17:33:23",
+      "Remision": "20260626-0932",
+      "Fecha": "2026-06-26",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Bistec de cerdo\",\"pu\":80,\"importe\":400},{\"cantidad\":3,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":294}]",
+      "Subtotal": 694,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 694
+    },
+    {
+      "Timestamp": "6/26/2026 19:04:09",
+      "Remision": "20260626-1103",
+      "Fecha": "2026-06-26",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "6/27/2026 3:20:43",
+      "Remision": "20260626-1920",
+      "Fecha": "2026-06-26",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":46,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":3726}]",
+      "Subtotal": 3726,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3726
     }
   ]
 }
