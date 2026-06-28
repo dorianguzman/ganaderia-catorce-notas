@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-27"
+    "end": "2026-06-28"
   },
-  "generated": "2026-06-27 09:31:19",
+  "generated": "2026-06-28 10:06:24",
   "metrics": {
-    "total_revenue": 119793.0,
-    "total_notas": 46,
-    "avg_ticket": 2604.195652173913,
-    "total_items": 94
+    "total_revenue": 121333.0,
+    "total_notas": 47,
+    "avg_ticket": 2581.553191489362,
+    "total_items": 97
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 730
+      "quantity": 739
     },
     {
       "rank": 2,
@@ -663,6 +663,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 3726
+    },
+    {
+      "Timestamp": "6/27/2026 17:05:13",
+      "Remision": "20260627-0904",
+      "Fecha": "2026-06-27",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":900},{\"cantidad\":2,\"descripcion\":\"Trozo al pastor\",\"pu\":100,\"importe\":200},{\"cantidad\":4,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":440}]",
+      "Subtotal": 1540,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1540
     }
   ]
 }
