@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-06-01",
-    "end": "2026-06-29"
+    "end": "2026-06-30"
   },
-  "generated": "2026-06-29 12:02:51",
+  "generated": "2026-06-30 10:33:42",
   "metrics": {
-    "total_revenue": 121333.0,
-    "total_notas": 47,
-    "avg_ticket": 2581.553191489362,
-    "total_items": 97
+    "total_revenue": 124423.0,
+    "total_notas": 48,
+    "avg_ticket": 2592.1458333333335,
+    "total_items": 103
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "Tacos memo",
-      "revenue": 8345.0
+      "name": "Jonathan",
+      "revenue": 10722.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 739
+      "quantity": 749
     },
     {
       "rank": 2,
@@ -676,6 +676,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1540
+    },
+    {
+      "Timestamp": "6/29/2026 14:08:15",
+      "Remision": "20260629-0606",
+      "Fecha": "2026-06-29",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":810},{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":980},{\"cantidad\":6,\"descripcion\":\"Chorizo argentino\",\"pu\":98,\"importe\":588},{\"cantidad\":4,\"descripcion\":\"Chorizo español\",\"pu\":98,\"importe\":392},{\"cantidad\":2,\"descripcion\":\"Salsa de piña\",\"pu\":110,\"importe\":220},{\"cantidad\":1,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":100}]",
+      "Subtotal": 3090,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3090
     }
   ]
 }
