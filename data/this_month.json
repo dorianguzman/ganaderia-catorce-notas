@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-04"
+    "end": "2026-07-05"
   },
-  "generated": "2026-07-04 09:26:57",
+  "generated": "2026-07-05 09:44:47",
   "metrics": {
-    "total_revenue": 13410.0,
-    "total_notas": 5,
-    "avg_ticket": 2682.0,
-    "total_items": 7
+    "total_revenue": 21460.0,
+    "total_notas": 7,
+    "avg_ticket": 3065.714285714286,
+    "total_items": 11
   },
   "top_customers": [
     {
@@ -24,6 +24,16 @@
     },
     {
       "rank": 3,
+      "name": "El torito huérfano",
+      "revenue": 4800.0
+    },
+    {
+      "rank": 4,
+      "name": "Señora Adriana",
+      "revenue": 3250.0
+    },
+    {
+      "rank": 5,
       "name": "Servilamina",
       "revenue": 1228.0
     }
@@ -32,27 +42,27 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 84
+      "quantity": 99
     },
     {
       "rank": 2,
+      "name": "Chorizo habanero",
+      "quantity": 48
+    },
+    {
+      "rank": 3,
       "name": "Chuleta ahumada",
       "quantity": 38
     },
     {
-      "rank": 3,
-      "name": "Trozo al pastor",
-      "quantity": 10
-    },
-    {
       "rank": 4,
-      "name": "Bistec de cerdo",
-      "quantity": 9
+      "name": "Trozo al pastor",
+      "quantity": 22
     },
     {
       "rank": 5,
-      "name": "Bistec cerdo",
-      "quantity": 8
+      "name": "Bistec de cerdo",
+      "quantity": 9
     }
   ],
   "records": [
@@ -120,6 +130,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 588
+    },
+    {
+      "Timestamp": "7/4/2026 17:00:32",
+      "Remision": "20260704-0858",
+      "Fecha": "2026-07-04",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":15,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":1470},{\"cantidad\":12,\"descripcion\":\"Trozo al pastor\",\"pu\":98,\"importe\":1176},{\"cantidad\":6,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":660}]",
+      "Subtotal": 3306,
+      "IVA": 0,
+      "Descuento": 56,
+      "Total": 3250
+    },
+    {
+      "Timestamp": "7/4/2026 19:55:37",
+      "Remision": "20260704-1155",
+      "Fecha": "2026-07-04",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":48,\"descripcion\":\"Chorizo habanero\",\"pu\":100,\"importe\":4800}]",
+      "Subtotal": 4800,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4800
     }
   ]
 }
