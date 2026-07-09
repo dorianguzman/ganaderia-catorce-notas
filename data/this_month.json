@@ -2,47 +2,47 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-08"
+    "end": "2026-07-09"
   },
-  "generated": "2026-07-08 09:28:54",
+  "generated": "2026-07-09 10:27:51",
   "metrics": {
-    "total_revenue": 34040.0,
-    "total_notas": 11,
-    "avg_ticket": 3094.5454545454545,
-    "total_items": 19
+    "total_revenue": 69192.0,
+    "total_notas": 12,
+    "avg_ticket": 5766.0,
+    "total_items": 23
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Corte del norte ",
+      "revenue": 35152.0
+    },
+    {
+      "rank": 2,
       "name": "Alejandro",
       "revenue": 10920.0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Guaches",
       "revenue": 5740.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Grammer",
       "revenue": 5702.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "El torito huérfano",
       "revenue": 4800.0
-    },
-    {
-      "rank": 5,
-      "name": "Señora Adriana",
-      "revenue": 3250.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 224
+      "quantity": 624
     },
     {
       "rank": 2,
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 12
+      "name": "Chorizo argentino",
+      "quantity": 20
     }
   ],
   "records": [
@@ -208,6 +208,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4440
+    },
+    {
+      "Timestamp": "7/9/2026 5:28:04",
+      "Remision": "20260708-2127",
+      "Fecha": "2026-07-08",
+      "Cliente": "Corte del norte ",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":400,\"descripcion\":\"Arrachera marinada\",\"pu\":78,\"importe\":31200},{\"cantidad\":20,\"descripcion\":\"Chorizo argentino\",\"pu\":78,\"importe\":1560},{\"cantidad\":20,\"descripcion\":\"Chorizo español\",\"pu\":78,\"importe\":1560},{\"cantidad\":3.2,\"descripcion\":\"Ribe eye\",\"pu\":260,\"importe\":832}]",
+      "Subtotal": 35152,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 35152
     }
   ]
 }
