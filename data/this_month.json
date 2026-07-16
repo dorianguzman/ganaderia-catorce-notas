@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-15"
+    "end": "2026-07-16"
   },
-  "generated": "2026-07-15 09:13:39",
+  "generated": "2026-07-16 09:19:45",
   "metrics": {
-    "total_revenue": 97713.65000000001,
-    "total_notas": 25,
-    "avg_ticket": 3908.5460000000003,
-    "total_items": 46
+    "total_revenue": 98913.65000000001,
+    "total_notas": 26,
+    "avg_ticket": 3804.3711538461544,
+    "total_items": 48
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 779
+      "quantity": 789
     },
     {
       "rank": 2,
@@ -390,6 +390,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1694.25
+    },
+    {
+      "Timestamp": "7/15/2026 18:53:45",
+      "Remision": "20260715-1053",
+      "Fecha": "2026-07-15",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1000},{\"cantidad\":1,\"descripcion\":\"Bistec de res \",\"pu\":200,\"importe\":200}]",
+      "Subtotal": 1200,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1200
     }
   ]
 }
