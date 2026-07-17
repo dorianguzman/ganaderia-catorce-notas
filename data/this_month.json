@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-16"
+    "end": "2026-07-17"
   },
-  "generated": "2026-07-16 09:19:45",
+  "generated": "2026-07-17 09:13:27",
   "metrics": {
-    "total_revenue": 98913.65000000001,
-    "total_notas": 26,
-    "avg_ticket": 3804.3711538461544,
-    "total_items": 48
+    "total_revenue": 109763.45000000001,
+    "total_notas": 30,
+    "avg_ticket": 3658.781666666667,
+    "total_items": 55
   },
   "top_customers": [
     {
@@ -19,18 +19,18 @@
     },
     {
       "rank": 2,
-      "name": "Grammer",
-      "revenue": 14428.0
+      "name": "Alejandro",
+      "revenue": 17937.3
     },
     {
       "rank": 3,
-      "name": "Alejandro",
-      "revenue": 13350.0
+      "name": "Guaches",
+      "revenue": 14760.0
     },
     {
       "rank": 4,
-      "name": "Guaches",
-      "revenue": 10660.0
+      "name": "Grammer",
+      "revenue": 14428.0
     },
     {
       "rank": 5,
@@ -42,12 +42,12 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 789
+      "quantity": 897
     },
     {
       "rank": 2,
       "name": "Picaña",
-      "quantity": 284.66999999999996
+      "quantity": 286.65999999999997
     },
     {
       "rank": 3,
@@ -403,6 +403,58 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1200
+    },
+    {
+      "Timestamp": "7/16/2026 17:47:41",
+      "Remision": "20260716-0947",
+      "Fecha": "2026-07-16",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":2.5,\"descripcion\":\"Chamorro\",\"pu\":45,\"importe\":112.5},{\"cantidad\":5,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":90,\"importe\":450}]",
+      "Subtotal": 562.5,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 562.5
+    },
+    {
+      "Timestamp": "7/16/2026 17:48:41",
+      "Remision": "20260716-0948",
+      "Fecha": "2026-07-16",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":1.99,\"descripcion\":\"Picaña\",\"pu\":270,\"importe\":537.3},{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":4050}]",
+      "Subtotal": 4587.3,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4587.3
+    },
+    {
+      "Timestamp": "7/16/2026 17:49:19",
+      "Remision": "20260716-0948",
+      "Fecha": "2026-07-16",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4100}]",
+      "Subtotal": 4100,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4100
+    },
+    {
+      "Timestamp": "7/16/2026 17:58:09",
+      "Remision": "20260716-0957",
+      "Fecha": "2026-07-16",
+      "Cliente": "San Javier",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":100,\"importe\":800},{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":800}]",
+      "Subtotal": 1600,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1600
     }
   ]
 }
