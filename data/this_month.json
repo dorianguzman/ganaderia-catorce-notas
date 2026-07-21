@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-20"
+    "end": "2026-07-21"
   },
-  "generated": "2026-07-20 10:17:09",
+  "generated": "2026-07-21 09:31:21",
   "metrics": {
-    "total_revenue": 119908.20000000001,
-    "total_notas": 36,
-    "avg_ticket": 3330.7833333333338,
-    "total_items": 64
+    "total_revenue": 126106.70000000001,
+    "total_notas": 39,
+    "avg_ticket": 3233.5051282051286,
+    "total_items": 68
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "Señora Adriana",
-      "revenue": 5594.0
+      "name": "San Javier",
+      "revenue": 6798.5
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 975
+      "quantity": 981
     },
     {
       "rank": 2,
@@ -52,7 +52,7 @@
     {
       "rank": 3,
       "name": "Chuleta ahumada",
-      "quantity": 78
+      "quantity": 104.785
     },
     {
       "rank": 4,
@@ -533,6 +533,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1620
+    },
+    {
+      "Timestamp": "7/20/2026 23:04:11",
+      "Remision": "20260720-1503",
+      "Fecha": "2026-07-20",
+      "Cliente": "San Javier",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":18,\"descripcion\":\"Molida res y cerdo 70/30\",\"pu\":140,\"importe\":2520},{\"cantidad\":26.785,\"descripcion\":\"Chuleta ahumada\",\"pu\":100,\"importe\":2678.5}]",
+      "Subtotal": 5198.5,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 5198.5
+    },
+    {
+      "Timestamp": "7/20/2026 23:23:29",
+      "Remision": "20260720-1523",
+      "Fecha": "2026-07-20",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":600}]",
+      "Subtotal": 600,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 600
+    },
+    {
+      "Timestamp": "7/21/2026 6:50:02",
+      "Remision": "20260720-2249",
+      "Fecha": "2026-07-20",
+      "Cliente": "Los papis",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":2,\"descripcion\":\"Diezmillo\",\"pu\":200,\"importe\":400}]",
+      "Subtotal": 400,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 400
     }
   ]
 }
