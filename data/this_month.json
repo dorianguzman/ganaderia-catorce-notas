@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-21"
+    "end": "2026-07-22"
   },
-  "generated": "2026-07-21 09:31:21",
+  "generated": "2026-07-22 09:30:50",
   "metrics": {
-    "total_revenue": 126106.70000000001,
-    "total_notas": 39,
-    "avg_ticket": 3233.5051282051286,
-    "total_items": 68
+    "total_revenue": 129506.70000000001,
+    "total_notas": 40,
+    "avg_ticket": 3237.6675000000005,
+    "total_items": 69
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "San Javier",
-      "revenue": 6798.5
+      "name": "Parrilla del lobo",
+      "revenue": 6800.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 981
+      "quantity": 1021
     },
     {
       "rank": 2,
@@ -572,6 +572,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 400
+    },
+    {
+      "Timestamp": "7/21/2026 16:48:34",
+      "Remision": "20260721-0848",
+      "Fecha": "2026-07-21",
+      "Cliente": "Parrilla del lobo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":40,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":3400}]",
+      "Subtotal": 3400,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 3400
     }
   ]
 }
