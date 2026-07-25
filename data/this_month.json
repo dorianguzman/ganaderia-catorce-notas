@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-24"
+    "end": "2026-07-25"
   },
-  "generated": "2026-07-24 09:24:48",
+  "generated": "2026-07-25 09:03:53",
   "metrics": {
-    "total_revenue": 144986.7,
-    "total_notas": 45,
-    "avg_ticket": 3221.9266666666667,
-    "total_items": 77
+    "total_revenue": 152979.7,
+    "total_notas": 51,
+    "avg_ticket": 2999.601960784314,
+    "total_items": 89
   },
   "top_customers": [
     {
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "name": "Alejandro",
-      "revenue": 23607.3
+      "revenue": 26037.3
     },
     {
       "rank": 3,
@@ -30,7 +30,7 @@
     {
       "rank": 4,
       "name": "Grammer",
-      "revenue": 16652.0
+      "revenue": 18582.0
     },
     {
       "rank": 5,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 1148
+      "quantity": 1200
     },
     {
       "rank": 2,
@@ -57,7 +57,7 @@
     {
       "rank": 4,
       "name": "Bistec cerdo",
-      "quantity": 56
+      "quantity": 74
     },
     {
       "rank": 5,
@@ -650,6 +650,84 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 630
+    },
+    {
+      "Timestamp": "7/24/2026 18:19:55",
+      "Remision": "20260724-1019",
+      "Fecha": "2026-07-24",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":720}]",
+      "Subtotal": 720,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 720
+    },
+    {
+      "Timestamp": "7/24/2026 18:20:54",
+      "Remision": "20260724-1020",
+      "Fecha": "2026-07-24",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":720},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 1210,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1210
+    },
+    {
+      "Timestamp": "7/24/2026 18:21:39",
+      "Remision": "20260724-1021",
+      "Fecha": "2026-07-24",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":294}]",
+      "Subtotal": 294,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 294
+    },
+    {
+      "Timestamp": "7/24/2026 18:22:09",
+      "Remision": "20260724-1021",
+      "Fecha": "2026-07-24",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":588}]",
+      "Subtotal": 588,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 588
+    },
+    {
+      "Timestamp": "7/25/2026 3:40:50",
+      "Remision": "20260724-1940",
+      "Fecha": "2026-07-24",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":30,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":2430}]",
+      "Subtotal": 2430,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2430
+    },
+    {
+      "Timestamp": "7/25/2026 6:59:26",
+      "Remision": "20260724-2257",
+      "Fecha": "2026-07-24",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":784},{\"cantidad\":5,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":675},{\"cantidad\":4,\"descripcion\":\"Chorizo argentino\",\"pu\":98,\"importe\":392},{\"cantidad\":5,\"descripcion\":\"Chorizo español\",\"pu\":98,\"importe\":490},{\"cantidad\":1,\"descripcion\":\"Salsa de piña\",\"pu\":110,\"importe\":110},{\"cantidad\":3,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":300}]",
+      "Subtotal": 2751,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2751
     }
   ]
 }
