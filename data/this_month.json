@@ -2,47 +2,47 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-07-01",
-    "end": "2026-07-28"
+    "end": "2026-07-29"
   },
-  "generated": "2026-07-28 09:39:27",
+  "generated": "2026-07-29 09:41:58",
   "metrics": {
-    "total_revenue": 155779.7,
-    "total_notas": 52,
-    "avg_ticket": 2995.763461538462,
-    "total_items": 94
+    "total_revenue": 206946.90000000002,
+    "total_notas": 55,
+    "avg_ticket": 3762.6709090909094,
+    "total_items": 103
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Corte del norte",
+      "revenue": 43310.0
+    },
+    {
+      "rank": 2,
       "name": "Corte del norte ",
       "revenue": 35152.0
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "name": "Guaches",
+      "revenue": 27880.0
+    },
+    {
+      "rank": 4,
       "name": "Alejandro",
       "revenue": 26037.3
     },
     {
-      "rank": 3,
-      "name": "Guaches",
-      "revenue": 22960.0
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "name": "Grammer",
       "revenue": 18582.0
-    },
-    {
-      "rank": 5,
-      "name": "San Javier",
-      "revenue": 13498.5
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 1214
+      "quantity": 1724
     },
     {
       "rank": 2,
@@ -61,8 +61,8 @@
     },
     {
       "rank": 5,
-      "name": "Chorizo habanero",
-      "quantity": 48.5
+      "name": "Chistorra",
+      "quantity": 63
     }
   ],
   "records": [
@@ -741,6 +741,45 @@
       "IVA": 0,
       "Descuento": 20,
       "Total": 2800
+    },
+    {
+      "Timestamp": "7/28/2026 15:45:53",
+      "Remision": "20260728-0745",
+      "Fecha": "2026-07-28",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
+    },
+    {
+      "Timestamp": "7/28/2026 19:15:42",
+      "Remision": "20260729-1113",
+      "Fecha": "2026-07-29",
+      "Cliente": "Corte del norte",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":50,\"descripcion\":\"Chistorra\",\"pu\":90,\"importe\":4500},{\"cantidad\":25,\"descripcion\":\"Chorizo argentino\",\"pu\":78,\"importe\":1950},{\"cantidad\":20,\"descripcion\":\"Chorizo español\",\"pu\":78,\"importe\":1560},{\"cantidad\":430,\"descripcion\":\"Arrachera marinada\",\"pu\":78,\"importe\":33540},{\"cantidad\":4,\"descripcion\":\"Ribe eye\",\"pu\":260,\"importe\":1040},{\"cantidad\":3,\"descripcion\":\"Tbone\",\"pu\":240,\"importe\":720}]",
+      "Subtotal": 43310,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 43310
+    },
+    {
+      "Timestamp": "7/29/2026 3:50:13",
+      "Remision": "20260728-1949",
+      "Fecha": "2026-07-28",
+      "Cliente": "San Javier",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8.52,\"descripcion\":\"Milanesa de cerdo\",\"pu\":110,\"importe\":937.1999999999999},{\"cantidad\":20,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":2000}]",
+      "Subtotal": 2937.2,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2937.2
     }
   ]
 }
