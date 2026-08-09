@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-08"
+    "end": "2026-08-09"
   },
-  "generated": "2026-08-08 07:52:22",
+  "generated": "2026-08-09 07:55:34",
   "metrics": {
-    "total_revenue": 12280.0,
-    "total_notas": 7,
-    "avg_ticket": 1754.2857142857142,
-    "total_items": 9
+    "total_revenue": 14310.0,
+    "total_notas": 8,
+    "avg_ticket": 1788.75,
+    "total_items": 13
   },
   "top_customers": [
     {
@@ -29,6 +29,11 @@
     },
     {
       "rank": 4,
+      "name": "Señora Adriana",
+      "revenue": 2030.0
+    },
+    {
+      "rank": 5,
       "name": "Servilamina",
       "revenue": 882.0
     }
@@ -37,12 +42,27 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 120
+      "quantity": 128
     },
     {
       "rank": 2,
       "name": "Bistec cerdo",
       "quantity": 27
+    },
+    {
+      "rank": 3,
+      "name": "Trozo al pastor",
+      "quantity": 7
+    },
+    {
+      "rank": 4,
+      "name": "Chorizo verde",
+      "quantity": 3
+    },
+    {
+      "rank": 5,
+      "name": "Chistorra",
+      "quantity": 2.5
     }
   ],
   "records": [
@@ -136,6 +156,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 392
+    },
+    {
+      "Timestamp": "8/8/2026 17:53:14",
+      "Remision": "20260808-0950",
+      "Fecha": "2026-08-08",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":97,\"importe\":776},{\"cantidad\":7,\"descripcion\":\"Trozo al pastor\",\"pu\":97,\"importe\":679},{\"cantidad\":2.5,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":275},{\"cantidad\":3,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":300}]",
+      "Subtotal": 2030,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2030
     }
   ]
 }
