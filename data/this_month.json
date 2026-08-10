@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-09"
+    "end": "2026-08-10"
   },
-  "generated": "2026-08-09 07:55:34",
+  "generated": "2026-08-10 08:43:41",
   "metrics": {
-    "total_revenue": 14310.0,
-    "total_notas": 8,
-    "avg_ticket": 1788.75,
-    "total_items": 13
+    "total_revenue": 17245.8,
+    "total_notas": 10,
+    "avg_ticket": 1724.58,
+    "total_items": 23
   },
   "top_customers": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "name": "Servilamina",
-      "revenue": 882.0
+      "name": "Elio ocañas",
+      "revenue": 1495.8
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 128
+      "quantity": 135
     },
     {
       "rank": 2,
@@ -56,13 +56,13 @@
     },
     {
       "rank": 4,
-      "name": "Chorizo verde",
-      "quantity": 3
+      "name": "Aguja marinada",
+      "quantity": 4
     },
     {
       "rank": 5,
-      "name": "Chistorra",
-      "quantity": 2.5
+      "name": "Chorizo verde",
+      "quantity": 3
     }
   ],
   "records": [
@@ -169,6 +169,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2030
+    },
+    {
+      "Timestamp": "8/9/2026 20:38:16",
+      "Remision": "20260809-1235",
+      "Fecha": "2026-08-09",
+      "Cliente": "Elio ocañas",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":2,\"descripcion\":\"Diezmillo\",\"pu\":220,\"importe\":440},{\"cantidad\":0.33,\"descripcion\":\"Rib eye\",\"pu\":260,\"importe\":85.8},{\"cantidad\":2,\"descripcion\":\"Arrachera marinada\",\"pu\":130,\"importe\":260},{\"cantidad\":2,\"descripcion\":\"Top sirloin\",\"pu\":220,\"importe\":440},{\"cantidad\":1,\"descripcion\":\"Picaña\",\"pu\":270,\"importe\":270}]",
+      "Subtotal": 1495.8,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1495.8
+    },
+    {
+      "Timestamp": "8/10/2026 5:09:02",
+      "Remision": "20260809-2107",
+      "Fecha": "2026-08-09",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":500},{\"cantidad\":4,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":540},{\"cantidad\":1,\"descripcion\":\"Chorizo español\",\"pu\":100,\"importe\":100},{\"cantidad\":2,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":200},{\"cantidad\":1,\"descripcion\":\"Papa picaña\",\"pu\":100,\"importe\":100}]",
+      "Subtotal": 1440,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1440
     }
   ]
 }
