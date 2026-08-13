@@ -2,20 +2,20 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-12"
+    "end": "2026-08-13"
   },
-  "generated": "2026-08-12 08:22:22",
+  "generated": "2026-08-13 08:25:19",
   "metrics": {
-    "total_revenue": 17845.8,
-    "total_notas": 11,
-    "avg_ticket": 1622.3454545454545,
-    "total_items": 24
+    "total_revenue": 25315.8,
+    "total_notas": 13,
+    "avg_ticket": 1947.3692307692306,
+    "total_items": 27
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Guaches",
-      "revenue": 4920.0
+      "revenue": 9840.0
     },
     {
       "rank": 2,
@@ -29,20 +29,20 @@
     },
     {
       "rank": 4,
-      "name": "Señora Adriana",
-      "revenue": 2030.0
+      "name": "Alex",
+      "revenue": 2550.0
     },
     {
       "rank": 5,
-      "name": "Elio ocañas",
-      "revenue": 1495.8
+      "name": "Señora Adriana",
+      "revenue": 2030.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 141
+      "quantity": 226
     },
     {
       "rank": 2,
@@ -56,13 +56,13 @@
     },
     {
       "rank": 4,
-      "name": "Aguja marinada",
-      "quantity": 4
+      "name": "Chorizo ",
+      "quantity": 5
     },
     {
       "rank": 5,
-      "name": "Chorizo verde",
-      "quantity": 3
+      "name": "Aguja marinada",
+      "quantity": 4
     }
   ],
   "records": [
@@ -208,6 +208,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 600
+    },
+    {
+      "Timestamp": "8/12/2026 21:28:26",
+      "Remision": "20260812-1327",
+      "Fecha": "2026-08-12",
+      "Cliente": "Guaches",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":60,\"descripcion\":\"Arrachera marinada\",\"pu\":82,\"importe\":4920}]",
+      "Subtotal": 4920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 4920
+    },
+    {
+      "Timestamp": "8/12/2026 23:33:06",
+      "Remision": "20260812-1532",
+      "Fecha": "2026-08-12",
+      "Cliente": "Alex",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":25,\"descripcion\":\"Arrachera marinada\",\"pu\":85,\"importe\":2125},{\"cantidad\":5,\"descripcion\":\"Chorizo \",\"pu\":85,\"importe\":425}]",
+      "Subtotal": 2550,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2550
     }
   ]
 }
