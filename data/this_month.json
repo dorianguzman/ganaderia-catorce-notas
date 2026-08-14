@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-13"
+    "end": "2026-08-14"
   },
-  "generated": "2026-08-13 08:25:19",
+  "generated": "2026-08-14 08:20:33",
   "metrics": {
-    "total_revenue": 25315.8,
-    "total_notas": 13,
-    "avg_ticket": 1947.3692307692306,
-    "total_items": 27
+    "total_revenue": 27402.899999999998,
+    "total_notas": 14,
+    "avg_ticket": 1957.35,
+    "total_items": 29
   },
   "top_customers": [
     {
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "name": "Alejandro",
-      "revenue": 3240.0
+      "revenue": 5327.1
     },
     {
       "rank": 3,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 226
+      "quantity": 246
     },
     {
       "rank": 2,
@@ -234,6 +234,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2550
+    },
+    {
+      "Timestamp": "8/13/2026 23:05:10",
+      "Remision": "20260813-1504",
+      "Fecha": "2026-08-13",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":1.73,\"descripcion\":\"Picaña\",\"pu\":270,\"importe\":467.1},{\"cantidad\":20,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":1620}]",
+      "Subtotal": 2087.1,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2087.1
     }
   ]
 }
