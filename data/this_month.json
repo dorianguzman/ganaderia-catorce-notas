@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-14"
+    "end": "2026-08-15"
   },
-  "generated": "2026-08-14 08:20:33",
+  "generated": "2026-08-15 07:35:01",
   "metrics": {
-    "total_revenue": 27402.899999999998,
-    "total_notas": 14,
-    "avg_ticket": 1957.35,
-    "total_items": 29
+    "total_revenue": 28752.899999999998,
+    "total_notas": 15,
+    "avg_ticket": 1916.86,
+    "total_items": 30
   },
   "top_customers": [
     {
@@ -20,7 +20,7 @@
     {
       "rank": 2,
       "name": "Alejandro",
-      "revenue": 5327.1
+      "revenue": 6677.1
     },
     {
       "rank": 3,
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
+      "name": "Aguja marinada",
+      "quantity": 14
+    },
+    {
+      "rank": 4,
       "name": "Trozo al pastor",
       "quantity": 7
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Chorizo ",
       "quantity": 5
-    },
-    {
-      "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 4
     }
   ],
   "records": [
@@ -247,6 +247,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 2087.1
+    },
+    {
+      "Timestamp": "8/15/2026 6:16:33",
+      "Remision": "20260814-2216",
+      "Fecha": "2026-08-14",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Aguja marinada\",\"pu\":135,\"importe\":1350}]",
+      "Subtotal": 1350,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1350
     }
   ]
 }
