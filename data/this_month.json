@@ -2,67 +2,67 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-18"
+    "end": "2026-08-19"
   },
-  "generated": "2026-08-18 07:43:24",
+  "generated": "2026-08-19 07:43:32",
   "metrics": {
-    "total_revenue": 34409.899999999994,
-    "total_notas": 18,
-    "avg_ticket": 1911.6611111111108,
-    "total_items": 38
+    "total_revenue": 117359.9,
+    "total_notas": 20,
+    "avg_ticket": 5867.995,
+    "total_items": 48
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Corte del norte",
+      "revenue": 82950.0
+    },
+    {
+      "rank": 2,
       "name": "Guaches",
       "revenue": 9840.0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Alejandro",
       "revenue": 6677.1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Señora Adriana",
       "revenue": 5634.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Grammer",
       "revenue": 4038.0
-    },
-    {
-      "rank": 5,
-      "name": "Alex",
-      "revenue": 2550.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 262
+      "quantity": 1134
     },
     {
       "rank": 2,
+      "name": "Chistorra",
+      "quantity": 79.5
+    },
+    {
+      "rank": 3,
+      "name": "Chorizo español",
+      "quantity": 51
+    },
+    {
+      "rank": 4,
       "name": "Bistec cerdo",
       "quantity": 37
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Aguja marinada",
       "quantity": 14
-    },
-    {
-      "rank": 4,
-      "name": "Trozo al pastor",
-      "quantity": 7
-    },
-    {
-      "rank": 5,
-      "name": "Pastor",
-      "quantity": 7
     }
   ],
   "records": [
@@ -299,6 +299,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1253
+    },
+    {
+      "Timestamp": "8/18/2026 18:52:58",
+      "Remision": "20260818-1051",
+      "Fecha": "2026-08-18",
+      "Cliente": "Corte del norte",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":436,\"descripcion\":\"Arrachera marinada\",\"pu\":78,\"importe\":34008},{\"cantidad\":25,\"descripcion\":\"Chorizo español\",\"pu\":78,\"importe\":1950},{\"cantidad\":3.5,\"descripcion\":\"Rib eye\",\"pu\":360,\"importe\":1260},{\"cantidad\":3.8,\"descripcion\":\"Tbone\",\"pu\":340,\"importe\":1292},{\"cantidad\":37,\"descripcion\":\"Chistorra\",\"pu\":90,\"importe\":3330}]",
+      "Subtotal": 41840,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 41840
+    },
+    {
+      "Timestamp": "8/19/2026 4:45:22",
+      "Remision": "20260818-2043",
+      "Fecha": "2026-08-18",
+      "Cliente": "Corte del norte",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3.5,\"descripcion\":\"Rib eye\",\"pu\":260,\"importe\":910},{\"cantidad\":3.8,\"descripcion\":\"Tbone\",\"pu\":240,\"importe\":912},{\"cantidad\":436,\"descripcion\":\"Arrachera marinada\",\"pu\":78,\"importe\":34008},{\"cantidad\":25,\"descripcion\":\"Chorizo español\",\"pu\":78,\"importe\":1950},{\"cantidad\":37,\"descripcion\":\"Chistorra\",\"pu\":90,\"importe\":3330}]",
+      "Subtotal": 41110,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 41110
     }
   ]
 }
