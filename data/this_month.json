@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-21"
+    "end": "2026-08-23"
   },
-  "generated": "2026-08-21 07:48:21",
+  "generated": "2026-08-23 07:37:50",
   "metrics": {
-    "total_revenue": 128149.9,
-    "total_notas": 23,
-    "avg_ticket": 5571.734782608695,
-    "total_items": 51
+    "total_revenue": 138201.4,
+    "total_notas": 30,
+    "avg_ticket": 4606.713333333333,
+    "total_items": 74
   },
   "top_customers": [
     {
@@ -24,40 +24,40 @@
     },
     {
       "rank": 3,
+      "name": "Señora Adriana",
+      "revenue": 10298.0
+    },
+    {
+      "rank": 4,
       "name": "Alejandro",
       "revenue": 8297.1
     },
     {
-      "rank": 4,
-      "name": "Señora Adriana",
-      "revenue": 5634.0
-    },
-    {
       "rank": 5,
-      "name": "Parrilla del lobo",
-      "revenue": 4250.0
+      "name": "Grammer",
+      "revenue": 6458.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 1264
+      "quantity": 1310
     },
     {
       "rank": 2,
       "name": "Chistorra",
-      "quantity": 79.5
+      "quantity": 84.5
     },
     {
       "rank": 3,
-      "name": "Chorizo español",
-      "quantity": 51
+      "name": "Bistec cerdo",
+      "quantity": 55
     },
     {
       "rank": 4,
-      "name": "Bistec cerdo",
-      "quantity": 37
+      "name": "Chorizo español",
+      "quantity": 51
     },
     {
       "rank": 5,
@@ -364,6 +364,97 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1620
+    },
+    {
+      "Timestamp": "8/21/2026 17:54:53",
+      "Remision": "20260821-0953",
+      "Fecha": "2026-08-21",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":18,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":1440},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 1930,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1930
+    },
+    {
+      "Timestamp": "8/21/2026 17:55:43",
+      "Remision": "20260821-0955",
+      "Fecha": "2026-08-21",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 490,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 490
+    },
+    {
+      "Timestamp": "8/21/2026 17:56:23",
+      "Remision": "20260821-0955",
+      "Fecha": "2026-08-21",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 490,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 490
+    },
+    {
+      "Timestamp": "8/21/2026 23:36:19",
+      "Remision": "20260821-1534",
+      "Fecha": "2026-08-21",
+      "Cliente": "Jonathan",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":1,\"descripcion\":\"Tocino\",\"pu\":140,\"importe\":140},{\"cantidad\":2,\"descripcion\":\"Queso\",\"pu\":100,\"importe\":200},{\"cantidad\":1.5,\"descripcion\":\"Bistec de res\",\"pu\":200,\"importe\":300},{\"cantidad\":1.5,\"descripcion\":\"Pulpa/trozo de cerdo\",\"pu\":85,\"importe\":127.5},{\"cantidad\":1,\"descripcion\":\"Chorizo\",\"pu\":100,\"importe\":100},{\"cantidad\":1,\"descripcion\":\"Salsa de piña\",\"pu\":110,\"importe\":110},{\"cantidad\":1,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":100}]",
+      "Subtotal": 1077.5,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1077.5
+    },
+    {
+      "Timestamp": "8/22/2026 1:03:06",
+      "Remision": "20260821-1702",
+      "Fecha": "2026-08-21",
+      "Cliente": "Tacos memo",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":14,\"descripcion\":\"Arrachera marinada\",\"pu\":100,\"importe\":1400}]",
+      "Subtotal": 1400,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1400
+    },
+    {
+      "Timestamp": "8/22/2026 19:10:35",
+      "Remision": "20260822-1107",
+      "Fecha": "2026-08-22",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Picaña\",\"pu\":285,\"importe\":855},{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":784},{\"cantidad\":1,\"descripcion\":\"Pastor\",\"pu\":98,\"importe\":98},{\"cantidad\":1,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":100},{\"cantidad\":2.5,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":275}]",
+      "Subtotal": 2332,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2332
+    },
+    {
+      "Timestamp": "8/22/2026 19:12:35",
+      "Remision": "20260822-1111",
+      "Fecha": "2026-08-22",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":3,\"descripcion\":\"Picaña\",\"pu\":285,\"importe\":855},{\"cantidad\":8,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":784},{\"cantidad\":1,\"descripcion\":\"Pastor\",\"pu\":98,\"importe\":98},{\"cantidad\":1,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":100},{\"cantidad\":2.5,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":275},{\"cantidad\":1,\"descripcion\":\"Top sirloin\",\"pu\":220,\"importe\":220}]",
+      "Subtotal": 2332,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2332
     }
   ]
 }
