@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
-  "generated": "2026-08-24 07:59:54",
+  "generated": "2026-08-25 07:49:16",
   "metrics": {
-    "total_revenue": 142301.4,
-    "total_notas": 31,
-    "avg_ticket": 4590.3677419354835,
-    "total_items": 75
+    "total_revenue": 153603.4,
+    "total_notas": 32,
+    "avg_ticket": 4800.10625,
+    "total_items": 77
   },
   "top_customers": [
     {
@@ -24,18 +24,18 @@
     },
     {
       "rank": 3,
+      "name": "El torito huérfano",
+      "revenue": 11302.0
+    },
+    {
+      "rank": 4,
       "name": "Señora Adriana",
       "revenue": 10298.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Alejandro",
       "revenue": 8297.1
-    },
-    {
-      "rank": 5,
-      "name": "Grammer",
-      "revenue": 6458.0
     }
   ],
   "top_products": [
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
-      "name": "Bistec cerdo",
-      "quantity": 55
+      "name": "Chorizo habanero",
+      "quantity": 61.47
     },
     {
       "rank": 4,
-      "name": "Chorizo español",
-      "quantity": 51
+      "name": "Chorizo verde",
+      "quantity": 58.55
     },
     {
       "rank": 5,
-      "name": "Aguja marinada",
-      "quantity": 14
+      "name": "Bistec cerdo",
+      "quantity": 55
     }
   ],
   "records": [
@@ -468,6 +468,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4100
+    },
+    {
+      "Timestamp": "8/24/2026 23:12:37",
+      "Remision": "20260824-1511",
+      "Fecha": "2026-08-24",
+      "Cliente": "El torito huérfano",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":51.55,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":5155},{\"cantidad\":61.47,\"descripcion\":\"Chorizo habanero\",\"pu\":100,\"importe\":6147}]",
+      "Subtotal": 11302,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 11302
     }
   ]
 }
