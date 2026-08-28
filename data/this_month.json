@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-27"
+    "end": "2026-08-28"
   },
-  "generated": "2026-08-27 18:11:04",
+  "generated": "2026-08-28 19:21:19",
   "metrics": {
-    "total_revenue": 153603.4,
-    "total_notas": 32,
-    "avg_ticket": 4800.10625,
-    "total_items": 77
+    "total_revenue": 155943.4,
+    "total_notas": 35,
+    "avg_ticket": 4455.5257142857145,
+    "total_items": 82
   },
   "top_customers": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 1360
+      "quantity": 1370
     },
     {
       "rank": 2,
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
+      "name": "Bistec cerdo",
+      "quantity": 72
+    },
+    {
+      "rank": 4,
       "name": "Chorizo habanero",
       "quantity": 61.47
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Chorizo verde",
       "quantity": 58.55
-    },
-    {
-      "rank": 5,
-      "name": "Bistec cerdo",
-      "quantity": 55
     }
   ],
   "records": [
@@ -481,6 +481,45 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 11302
+    },
+    {
+      "Timestamp": "8/28/2026 17:49:43",
+      "Remision": "20260828-0949",
+      "Fecha": "2026-08-28",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":9,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":720}]",
+      "Subtotal": 720,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 720
+    },
+    {
+      "Timestamp": "8/28/2026 17:52:10",
+      "Remision": "20260828-0951",
+      "Fecha": "2026-08-28",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":4,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":320},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 810
+    },
+    {
+      "Timestamp": "8/28/2026 17:52:37",
+      "Remision": "20260828-0951",
+      "Fecha": "2026-08-28",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":4,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":320},{\"cantidad\":5,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":490}]",
+      "Subtotal": 810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 810
     }
   ]
 }
