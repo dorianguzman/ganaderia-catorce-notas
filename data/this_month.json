@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-08-01",
-    "end": "2026-08-28"
+    "end": "2026-08-29"
   },
-  "generated": "2026-08-28 19:21:19",
+  "generated": "2026-08-29 13:05:52",
   "metrics": {
-    "total_revenue": 155943.4,
-    "total_notas": 35,
-    "avg_ticket": 4455.5257142857145,
-    "total_items": 82
+    "total_revenue": 187567.61,
+    "total_notas": 36,
+    "avg_ticket": 5210.211388888889,
+    "total_items": 88
   },
   "top_customers": [
     {
@@ -19,23 +19,23 @@
     },
     {
       "rank": 2,
+      "name": "Cirque du soleil ",
+      "revenue": 31624.21
+    },
+    {
+      "rank": 3,
       "name": "Guaches",
       "revenue": 18860.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "El torito huérfano",
       "revenue": 11302.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Señora Adriana",
       "revenue": 10298.0
-    },
-    {
-      "rank": 5,
-      "name": "Alejandro",
-      "revenue": 8297.1
     }
   ],
   "top_products": [
@@ -520,6 +520,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 810
+    },
+    {
+      "Timestamp": "8/28/2026 23:54:40",
+      "Remision": "20260828-1549",
+      "Fecha": "2026-08-28",
+      "Cliente": "Cirque du soleil ",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":19.745,\"descripcion\":\"Top sirloin\",\"pu\":260,\"importe\":5133.7},{\"cantidad\":21,\"descripcion\":\"Falda de res\",\"pu\":312,\"importe\":6552},{\"cantidad\":20.6,\"descripcion\":\"Pierna de pollo con piel y hueso\",\"pu\":63,\"importe\":1297.8000000000002},{\"cantidad\":18.04,\"descripcion\":\"Pechuga de pollo limpia\",\"pu\":156,\"importe\":2814.24},{\"cantidad\":22.725,\"descripcion\":\"Muslo de pollo sin hueso con piel\",\"pu\":115,\"importe\":2613.375},{\"cantidad\":19.94,\"descripcion\":\"Chuleta de cerdo entrecot\",\"pu\":115,\"importe\":2293.1000000000004}]",
+      "Subtotal": 31624.21,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 31624.21
     }
   ]
 }
