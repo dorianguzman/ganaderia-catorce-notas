@@ -2,30 +2,40 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-09-01",
-    "end": "2026-09-09"
+    "end": "2026-09-10"
   },
-  "generated": "2026-09-09 12:14:52",
+  "generated": "2026-09-10 12:09:32",
   "metrics": {
-    "total_revenue": 19760.0,
-    "total_notas": 4,
-    "avg_ticket": 4940.0,
-    "total_items": 4
+    "total_revenue": 44693.130000000005,
+    "total_notas": 6,
+    "avg_ticket": 7448.8550000000005,
+    "total_items": 13
   },
   "top_customers": [
     {
       "rank": 1,
+      "name": "Cirque du soleil",
+      "revenue": 23173.13
+    },
+    {
+      "rank": 2,
       "name": "Guaches",
       "revenue": 9840.0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Alejandro",
       "revenue": 5670.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Parrilla del lobo",
       "revenue": 4250.0
+    },
+    {
+      "rank": 5,
+      "name": "Grammer",
+      "revenue": 1760.0
     }
   ],
   "top_products": [
@@ -33,6 +43,26 @@
       "rank": 1,
       "name": "Arrachera marinada",
       "quantity": 240
+    },
+    {
+      "rank": 2,
+      "name": "Pollo grande entero",
+      "quantity": 43.31
+    },
+    {
+      "rank": 3,
+      "name": "Muslo de pollo sin hueso con piel",
+      "quantity": 36
+    },
+    {
+      "rank": 4,
+      "name": "Pierna de pollo con piel y hueso",
+      "quantity": 32.4
+    },
+    {
+      "rank": 5,
+      "name": "Bistec cerdo",
+      "quantity": 22
     }
   ],
   "records": [
@@ -87,6 +117,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 4250
+    },
+    {
+      "Timestamp": "9/9/2026 17:26:24",
+      "Remision": "20260909-0916",
+      "Fecha": "2026-09-09",
+      "Cliente": "Cirque du soleil",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":18.445,\"descripcion\":\"Chuleta de cerdo entrecot\",\"pu\":115,\"importe\":2121.175},{\"cantidad\":18.35,\"descripcion\":\"Falda de res\",\"pu\":312,\"importe\":5725.200000000001},{\"cantidad\":43.31,\"descripcion\":\"Pollo grande entero\",\"pu\":85,\"importe\":3681.3500000000004},{\"cantidad\":36,\"descripcion\":\"Muslo de pollo sin hueso con piel\",\"pu\":115,\"importe\":4140},{\"cantidad\":32.4,\"descripcion\":\"Pierna de pollo con piel y hueso\",\"pu\":65,\"importe\":2106},{\"cantidad\":18.65,\"descripcion\":\"Pechuga de pollo limpia\",\"pu\":156,\"importe\":2909.3999999999996},{\"cantidad\":14,\"descripcion\":\"Lomo de cerdo \",\"pu\":135,\"importe\":1890},{\"cantidad\":4.8,\"descripcion\":\"Salchicha para asar \",\"pu\":125,\"importe\":600}]",
+      "Subtotal": 23173.13,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 23173.13
+    },
+    {
+      "Timestamp": "9/9/2026 20:06:18",
+      "Remision": "20260909-1205",
+      "Fecha": "2026-09-09",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":22,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":1760}]",
+      "Subtotal": 1760,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1760
     }
   ]
 }
