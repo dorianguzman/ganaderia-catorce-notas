@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-09-01",
-    "end": "2026-09-10"
+    "end": "2026-09-11"
   },
-  "generated": "2026-09-10 12:09:32",
+  "generated": "2026-09-11 12:07:28",
   "metrics": {
-    "total_revenue": 44693.130000000005,
-    "total_notas": 6,
-    "avg_ticket": 7448.8550000000005,
-    "total_items": 13
+    "total_revenue": 47933.130000000005,
+    "total_notas": 8,
+    "avg_ticket": 5991.641250000001,
+    "total_items": 15
   },
   "top_customers": [
     {
@@ -25,7 +25,7 @@
     {
       "rank": 3,
       "name": "Alejandro",
-      "revenue": 5670.0
+      "revenue": 8910.0
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 240
+      "quantity": 270
     },
     {
       "rank": 2,
@@ -143,6 +143,32 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1760
+    },
+    {
+      "Timestamp": "9/10/2026 16:49:20",
+      "Remision": "20260910-0848",
+      "Fecha": "2026-09-10",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":30,\"descripcion\":\"Arrachera marinada\",\"pu\":81,\"importe\":2430}]",
+      "Subtotal": 2430,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2430
+    },
+    {
+      "Timestamp": "9/10/2026 23:23:17",
+      "Remision": "20260910-1522",
+      "Fecha": "2026-09-10",
+      "Cliente": "Alejandro",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":10,\"descripcion\":\"Pastor\",\"pu\":81,\"importe\":810}]",
+      "Subtotal": 810,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 810
     }
   ]
 }
