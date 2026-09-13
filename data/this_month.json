@@ -2,14 +2,14 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-09-01",
-    "end": "2026-09-12"
+    "end": "2026-09-13"
   },
-  "generated": "2026-09-12 11:33:03",
+  "generated": "2026-09-13 12:38:53",
   "metrics": {
-    "total_revenue": 47933.130000000005,
-    "total_notas": 8,
-    "avg_ticket": 5991.641250000001,
-    "total_items": 15
+    "total_revenue": 55022.130000000005,
+    "total_notas": 13,
+    "avg_ticket": 4232.471538461539,
+    "total_items": 26
   },
   "top_customers": [
     {
@@ -29,40 +29,40 @@
     },
     {
       "rank": 4,
-      "name": "Parrilla del lobo",
-      "revenue": 4250.0
+      "name": "Grammer",
+      "revenue": 5600.0
     },
     {
       "rank": 5,
-      "name": "Grammer",
-      "revenue": 1760.0
+      "name": "Parrilla del lobo",
+      "revenue": 4250.0
     }
   ],
   "top_products": [
     {
       "rank": 1,
       "name": "Arrachera marinada",
-      "quantity": 270
+      "quantity": 283
     },
     {
       "rank": 2,
+      "name": "Bistec cerdo",
+      "quantity": 70
+    },
+    {
+      "rank": 3,
       "name": "Pollo grande entero",
       "quantity": 43.31
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Muslo de pollo sin hueso con piel",
       "quantity": 36
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Pierna de pollo con piel y hueso",
       "quantity": 32.4
-    },
-    {
-      "rank": 5,
-      "name": "Bistec cerdo",
-      "quantity": 22
     }
   ],
   "records": [
@@ -169,6 +169,71 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 810
+    },
+    {
+      "Timestamp": "9/12/2026 16:17:41",
+      "Remision": "20260912-0817",
+      "Fecha": "2026-09-12",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":24,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":1920}]",
+      "Subtotal": 1920,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 1920
+    },
+    {
+      "Timestamp": "9/12/2026 16:18:44",
+      "Remision": "20260912-0818",
+      "Fecha": "2026-09-12",
+      "Cliente": "Servilamina",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":6,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":588}]",
+      "Subtotal": 588,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 588
+    },
+    {
+      "Timestamp": "9/12/2026 16:51:41",
+      "Remision": "20260912-0851",
+      "Fecha": "2026-09-12",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":960}]",
+      "Subtotal": 960,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 960
+    },
+    {
+      "Timestamp": "9/12/2026 16:52:14",
+      "Remision": "20260912-0851",
+      "Fecha": "2026-09-12",
+      "Cliente": "Grammer",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":12,\"descripcion\":\"Bistec cerdo\",\"pu\":80,\"importe\":960}]",
+      "Subtotal": 960,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 960
+    },
+    {
+      "Timestamp": "9/12/2026 17:57:34",
+      "Remision": "20260912-0955",
+      "Fecha": "2026-09-12",
+      "Cliente": "Señora Adriana",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":7,\"descripcion\":\"Arrachera marinada\",\"pu\":98,\"importe\":686},{\"cantidad\":4,\"descripcion\":\"Pastor\",\"pu\":98,\"importe\":392},{\"cantidad\":1,\"descripcion\":\"Chorizo español\",\"pu\":100,\"importe\":100},{\"cantidad\":1,\"descripcion\":\"Chistorra\",\"pu\":110,\"importe\":110},{\"cantidad\":2,\"descripcion\":\"Chorizo verde\",\"pu\":100,\"importe\":200},{\"cantidad\":3,\"descripcion\":\"Top sirloin\",\"pu\":220,\"importe\":660},{\"cantidad\":1.8,\"descripcion\":\"Picaña\",\"pu\":285,\"importe\":513}]",
+      "Subtotal": 2661,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 2661
     }
   ]
 }
