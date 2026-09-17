@@ -2,20 +2,20 @@
   "title": "This Month Report",
   "period": {
     "start": "2026-09-01",
-    "end": "2026-09-16"
+    "end": "2026-09-17"
   },
-  "generated": "2026-09-16 12:31:15",
+  "generated": "2026-09-17 12:31:13",
   "metrics": {
-    "total_revenue": 61742.130000000005,
-    "total_notas": 16,
-    "avg_ticket": 3858.8831250000003,
-    "total_items": 29
+    "total_revenue": 86656.13,
+    "total_notas": 17,
+    "avg_ticket": 5097.419411764706,
+    "total_items": 35
   },
   "top_customers": [
     {
       "rank": 1,
       "name": "Cirque du soleil",
-      "revenue": 23173.13
+      "revenue": 48087.130000000005
     },
     {
       "rank": 2,
@@ -51,18 +51,18 @@
     },
     {
       "rank": 3,
+      "name": "Pollo entero mediano",
+      "quantity": 66
+    },
+    {
+      "rank": 4,
       "name": "Pollo grande entero",
       "quantity": 43.31
     },
     {
-      "rank": 4,
-      "name": "Muslo de pollo sin hueso con piel",
-      "quantity": 36
-    },
-    {
       "rank": 5,
-      "name": "Pierna de pollo con piel y hueso",
-      "quantity": 32.4
+      "name": "Pechuga de pollo limpia",
+      "quantity": 36.65
     }
   ],
   "records": [
@@ -273,6 +273,19 @@
       "IVA": 0,
       "Descuento": 0,
       "Total": 1000
+    },
+    {
+      "Timestamp": "9/16/2026 17:27:47",
+      "Remision": "20260916-0923",
+      "Fecha": "2026-09-16",
+      "Cliente": "Cirque du soleil",
+      "ClienteEmail": "",
+      "Ciudad": "Querétaro",
+      "Conceptos_JSON": "[{\"cantidad\":66,\"descripcion\":\"Pollo entero mediano\",\"pu\":85,\"importe\":5610},{\"cantidad\":18.2,\"descripcion\":\"Bistec diezmillo de res \",\"pu\":230,\"importe\":4186},{\"cantidad\":18.4,\"descripcion\":\"Top sirloin\",\"pu\":260,\"importe\":4784},{\"cantidad\":18,\"descripcion\":\"Cadera de res\",\"pu\":250,\"importe\":4500},{\"cantidad\":14.6,\"descripcion\":\"Filete de cerdo\",\"pu\":190,\"importe\":2774},{\"cantidad\":18,\"descripcion\":\"Pechuga de pollo limpia\",\"pu\":170,\"importe\":3060}]",
+      "Subtotal": 24914,
+      "IVA": 0,
+      "Descuento": 0,
+      "Total": 24914
     }
   ]
 }
